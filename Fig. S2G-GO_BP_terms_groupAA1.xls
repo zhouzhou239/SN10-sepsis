@@ -1,0 +1,151 @@
+"group"	"Description"	"pvalue"	"ratio"
+"C1"	"viral process"	3.11433885844032e-19	6.25424881033311
+"C1"	"response to virus"	2.07369800474994e-17	6.05030591434398
+"C1"	"regulation of innate immune response"	1.27513508691137e-16	5.84636301835486
+"C1"	"proteasome-mediated ubiquitin-dependent protein catabolic process"	1.5080092749188e-15	5.98232494901428
+"C1"	"establishment of protein localization to organelle"	1.16928746788893e-13	5.71040108769544
+"C1"	"defense response to virus"	4.83615137626299e-13	4.55472467709041
+"C1"	"defense response to symbiont"	5.59716479415908e-13	4.55472467709041
+"C1"	"positive regulation of defense response"	1.45584806732296e-12	5.71040108769544
+"C1"	"response to endoplasmic reticulum stress"	1.62122963608007e-12	3.87491502379334
+"C1"	"positive regulation of innate immune response"	1.75486419639584e-12	4.55472467709041
+"C1"	"protein localization to plasma membrane"	2.05424737827193e-12	4.07885791978246
+"C1"	"positive regulation of response to biotic stimulus"	6.8152025144156e-12	4.69068660774983
+"C1"	"response to type II interferon"	1.04514562471875e-11	2.58327668252889
+"C1"	"Golgi vesicle transport"	1.1851068492798e-11	4.01087695445275
+"C1"	"positive regulation of cytokine production"	1.20394645950755e-11	5.71040108769544
+"C1"	"activation of innate immune response"	2.51684838599305e-11	3.80693405846363
+"C1"	"canonical NF-kappaB signal transduction"	2.81174915633612e-11	4.01087695445275
+"C1"	"viral life cycle"	5.74035849971743e-11	4.14683888511217
+"C1"	"immune response-activating signaling pathway"	7.39558776980153e-11	5.37049626104691
+"C1"	"macroautophagy"	7.45181310094929e-11	4.21481985044188
+"C1"	"protein folding"	7.88475993547581e-11	3.26308633582597
+"C1"	"biological process involved in symbiotic interaction"	1.87432502935972e-10	4.07885791978246
+"C1"	"pattern recognition receptor signaling pathway"	1.90651680260907e-10	3.33106730115568
+"C1"	"extrinsic apoptotic signaling pathway"	2.07349568784554e-10	3.26308633582597
+"C1"	"innate immune response-activating signaling pathway"	3.32709579372018e-10	3.46702923181509
+"C1"	"cellular response to type II interferon"	4.00817753907167e-10	2.17539089055065
+"C1"	"protein localization to cell periphery"	4.16858075613636e-10	4.28280081577158
+"C1"	"response to tumor necrosis factor"	5.91115103271455e-10	3.46702923181509
+"C1"	"cellular response to tumor necrosis factor"	8.18717074980287e-10	3.26308633582597
+"C1"	"immune response-regulating signaling pathway"	1.10201581340759e-09	5.37049626104691
+"C1"	"regulation of canonical NF-kappaB signal transduction"	1.36106669558875e-09	3.46702923181509
+"C1"	"regulation of response to cytokine stimulus"	1.83204401700981e-09	2.71923861318831
+"C1"	"vesicle organization"	1.86691271286553e-09	4.28280081577158
+"C1"	"cellular component disassembly"	1.92471402767835e-09	5.3025152957172
+"C1"	"positive regulation of amide metabolic process"	2.00219788060307e-09	2.58327668252889
+"C1"	"positive regulation of proteolysis"	2.05807135974914e-09	4.14683888511217
+"C1"	"positive regulation of translation"	2.06560991166589e-09	2.31135282121006
+"C1"	"actin filament organization"	2.46178759812858e-09	5.03059143439837
+"C1"	"regulation of type I interferon production"	3.35826518811282e-09	2.10740992522094
+"C1"	"type I interferon production"	3.35826518811282e-09	2.10740992522094
+"C1"	"cellular response to external stimulus"	3.39744197475106e-09	4.07885791978246
+"C1"	"negative regulation of defense response"	3.43553870271641e-09	3.87491502379334
+"C1"	"regulation of viral genome replication"	3.63657595440821e-09	1.69952413324269
+"C1"	"regulation of apoptotic signaling pathway"	3.68937276287657e-09	4.48674371176071
+"C1"	"regulation of protein catabolic process"	3.82295412699539e-09	4.21481985044188
+"C1"	"RNA splicing"	3.99654219357884e-09	5.09857239972808
+"C1"	"viral genome replication"	4.34151165716501e-09	2.17539089055065
+"C1"	"cytosolic transport"	5.27884883551327e-09	2.6512576478586
+"C1"	"regulation of protein localization to plasma membrane"	9.74136953360709e-09	1.90346702923182
+"C1"	"negative regulation of viral genome replication"	1.45130405335927e-08	1.29163834126445
+"C2"	"leukocyte migration"	8.59846619917351e-15	9.45273631840796
+"C2"	"chemotaxis"	7.73681536031889e-14	9.95024875621891
+"C2"	"taxis"	8.89591744708392e-14	9.95024875621891
+"C2"	"cell chemotaxis"	1.10099213023017e-13	8.2089552238806
+"C2"	"positive regulation of cytokine production"	1.3797694225267e-13	10.1990049751244
+"C2"	"myeloid leukocyte activation"	2.01138454199395e-12	6.71641791044776
+"C2"	"B cell activation"	1.04202613309207e-11	6.96517412935323
+"C2"	"leukocyte chemotaxis"	1.12465973954102e-11	6.46766169154229
+"C2"	"leukocyte activation involved in immune response"	1.3209644479119e-11	7.21393034825871
+"C2"	"cell activation involved in immune response"	1.826244763845e-11	7.21393034825871
+"C2"	"regulation of leukocyte migration"	8.77337039517736e-10	5.72139303482587
+"C2"	"mononuclear cell differentiation"	1.03162335429332e-09	8.45771144278607
+"C2"	"response to molecule of bacterial origin"	1.68209663979463e-09	7.21393034825871
+"C2"	"response to lipopolysaccharide"	1.91897968107297e-09	6.96517412935323
+"C2"	"myeloid leukocyte migration"	2.3706256158739e-09	5.72139303482587
+"C2"	"myeloid cell differentiation"	3.64252169110559e-09	7.71144278606965
+"C2"	"positive regulation of defense response"	3.67438739446408e-09	8.2089552238806
+"C2"	"B cell differentiation"	4.70415951916839e-09	4.47761194029851
+"C2"	"regulation of leukocyte differentiation"	6.41565623057629e-09	6.46766169154229
+"C2"	"regulation of hemopoiesis"	6.88961538888698e-09	7.46268656716418
+"C2"	"regulation of innate immune response"	1.06424957881745e-08	7.46268656716418
+"C2"	"lymphocyte differentiation"	1.31702492926482e-08	7.46268656716418
+"C2"	"leukocyte degranulation"	1.55211756157579e-08	3.23383084577114
+"C2"	"positive regulation of leukocyte differentiation"	1.6904745893384e-08	4.72636815920398
+"C2"	"positive regulation of hemopoiesis"	1.6904745893384e-08	4.72636815920398
+"C2"	"positive regulation of leukocyte migration"	2.01304230646748e-08	4.22885572139304
+"C2"	"myeloid cell activation involved in immune response"	2.03451943635348e-08	3.48258706467662
+"C2"	"small GTPase mediated signal transduction"	2.27960104545075e-08	7.96019900497512
+"C2"	"immune response-activating signaling pathway"	3.35422782438508e-08	7.71144278606965
+"C2"	"immune response-regulating signaling pathway"	3.4867377196931e-08	7.96019900497512
+"C2"	"myeloid leukocyte differentiation"	3.50075823857659e-08	5.22388059701492
+"C2"	"granulocyte migration"	4.00818069324452e-08	4.22885572139304
+"C2"	"positive regulation of cell adhesion"	5.14665613043971e-08	7.71144278606965
+"C2"	"granulocyte activation"	6.74470207339685e-08	2.48756218905473
+"C2"	"regulation of leukocyte chemotaxis"	7.79704806771608e-08	3.73134328358209
+"C2"	"leukocyte mediated immunity"	8.33414005551915e-08	7.46268656716418
+"C2"	"regulation of cell-cell adhesion"	8.55029393545024e-08	7.71144278606965
+"C2"	"Ras protein signal transduction"	8.9407113419276e-08	6.21890547263682
+"C2"	"myeloid leukocyte mediated immunity"	9.08654108448399e-08	3.48258706467662
+"C2"	"peptidyl-serine phosphorylation"	9.78692478605216e-08	5.72139303482587
+"C2"	"positive regulation of innate immune response"	1.00060637724677e-07	6.21890547263682
+"C2"	"response to oxygen levels"	1.00060637724677e-07	6.21890547263682
+"C2"	"mononuclear cell migration"	1.03468590168199e-07	4.72636815920398
+"C2"	"positive regulation of leukocyte chemotaxis"	1.25030996488834e-07	3.23383084577114
+"C2"	"phagocytosis"	1.90104184543142e-07	4.97512437810945
+"C2"	"neutrophil activation"	1.97844835890881e-07	2.23880597014925
+"C2"	"positive regulation of lymphocyte migration"	1.97844835890881e-07	2.23880597014925
+"C2"	"peptidyl-serine modification"	2.12749649621946e-07	5.72139303482587
+"C2"	"regulation of lymphocyte migration"	2.15415503863274e-07	2.7363184079602
+"C2"	"response to decreased oxygen levels"	3.17250077597732e-07	5.72139303482587
+"C3"	"cytoplasmic translation"	1.77677655502952e-88	11.3500597371565
+"C3"	"aerobic respiration"	6.58289944092019e-55	9.43847072879331
+"C3"	"oxidative phosphorylation"	1.78694747414366e-53	8.24372759856631
+"C3"	"cellular respiration"	3.32624646609015e-52	10.0358422939068
+"C3"	"aerobic electron transport chain"	4.28174893610975e-44	6.09318996415771
+"C3"	"energy derivation by oxidation of organic compounds"	2.09674178886727e-43	10.5137395459976
+"C3"	"ATP synthesis coupled electron transport"	4.5130778958482e-43	6.21266427718041
+"C3"	"mitochondrial ATP synthesis coupled electron transport"	4.5130778958482e-43	6.21266427718041
+"C3"	"proton motive force-driven ATP synthesis"	2.1338767738096e-41	5.37634408602151
+"C3"	"respiratory electron transport chain"	2.62519514030689e-41	6.57108721624851
+"C3"	"proton motive force-driven mitochondrial ATP synthesis"	3.1896863986089e-40	5.01792114695341
+"C3"	"ATP biosynthetic process"	5.10674411176548e-39	5.85424133811231
+"C3"	"electron transport chain"	3.83147056366386e-38	7.28793309438471
+"C3"	"purine ribonucleoside triphosphate biosynthetic process"	1.4091881408733e-37	5.97371565113501
+"C3"	"purine nucleoside triphosphate biosynthetic process"	2.40698296447437e-37	5.97371565113501
+"C3"	"ribonucleoside triphosphate biosynthetic process"	3.17131922092797e-36	5.97371565113501
+"C3"	"ATP metabolic process"	5.86308343735497e-35	6.21266427718041
+"C3"	"nucleoside triphosphate biosynthetic process"	1.44395661937359e-34	5.97371565113501
+"C3"	"purine ribonucleoside triphosphate metabolic process"	5.6862081177714e-32	6.33213859020311
+"C3"	"purine nucleoside triphosphate metabolic process"	4.56133651001426e-31	6.33213859020311
+"C3"	"ribonucleoside triphosphate metabolic process"	6.38990322394312e-31	6.33213859020311
+"C3"	"nucleoside triphosphate metabolic process"	1.05357855550246e-29	6.45161290322581
+"C3"	"purine ribonucleotide biosynthetic process"	4.81148588937118e-28	6.69056152927121
+"C3"	"ribonucleotide biosynthetic process"	2.70853165081637e-27	6.81003584229391
+"C3"	"ribose phosphate biosynthetic process"	1.45429494458677e-26	6.81003584229391
+"C3"	"mitochondrial electron transport, NADH to ubiquinone"	6.25440021121198e-25	3.3452807646356
+"C3"	"purine-containing compound biosynthetic process"	2.27173120755119e-24	6.92951015531661
+"C3"	"purine nucleotide biosynthetic process"	2.32962518812232e-24	6.81003584229391
+"C3"	"NADH dehydrogenase complex assembly"	1.11297202259676e-23	3.4647550776583
+"C3"	"mitochondrial respiratory chain complex I assembly"	1.11297202259676e-23	3.4647550776583
+"C3"	"mitochondrial respiratory chain complex assembly"	1.84920985491378e-23	4.3010752688172
+"C3"	"nucleotide biosynthetic process"	7.91148524648696e-23	7.04898446833931
+"C3"	"nucleoside phosphate biosynthetic process"	1.13392219064806e-22	7.04898446833931
+"C3"	"ribosome biogenesis"	2.43364459016845e-21	7.16845878136201
+"C3"	"purine ribonucleotide metabolic process"	2.06104156826831e-19	7.28793309438471
+"C3"	"purine nucleotide metabolic process"	5.28864619379737e-19	8.24372759856631
+"C3"	"ribonucleotide metabolic process"	7.03352569912104e-19	7.40740740740741
+"C3"	"ribose phosphate metabolic process"	2.01311434843668e-18	7.40740740740741
+"C3"	"purine-containing compound metabolic process"	4.24013632046567e-18	8.36320191158901
+"C3"	"protein-RNA complex assembly"	1.14391159504947e-17	5.49581839904421
+"C3"	"translational initiation"	2.53114357683922e-17	3.9426523297491
+"C3"	"protein-RNA complex organization"	4.49514739998564e-17	5.49581839904421
+"C3"	"ribosomal small subunit biogenesis"	7.08738535222541e-16	3.4647550776583
+"C3"	"ribosomal large subunit biogenesis"	1.02358911669597e-14	2.8673835125448
+"C3"	"proton transmembrane transport"	1.68340272759844e-14	4.0621266427718
+"C3"	"ribosome assembly"	1.78836263694238e-14	2.6284348864994
+"C3"	"formation of cytoplasmic translation initiation complex"	4.36962291851712e-12	1.3142174432497
+"C3"	"antigen processing and presentation of peptide antigen via MHC class II"	6.33138925145447e-12	1.7921146953405
+"C3"	"antigen processing and presentation of exogenous antigen"	1.44894354088794e-11	2.0310633213859
+"C3"	"antigen processing and presentation of peptide or polysaccharide antigen via MHC class II"	1.67961680049851e-11	1.7921146953405

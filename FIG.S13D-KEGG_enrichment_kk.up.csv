@@ -1,0 +1,300 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"mmu04141","mmu04141","Protein processing in endoplasmic reticulum","46/677","171/9382",1.57374445148332e-15,4.70549590993512e-13,3.0977917097619e-13,"Mogs/Man1c1/Amfr/Hspa5/Capn1/Sec31a/Sec63/Ube2j1/Preb/Edem1/Ubqln1/Dnajc5/Selenos/Herpud1/Magt1/Rpn1/Rpn2/Ssr1/Ube2j2/Sec61a1/P4hb/Stt3b/Uggt1/Sec24c/Sec24a/Atf4/Map3k5/Prkcsh/Ubqln2/Ube2g2/Bak1/Sec24b/Xbp1/Calr/Tram1/Rrbp1/Ganab/Pdia6/Txndc5/Hyou1/Lman2/Sel1l/Stt3a/Dnajc3/Sec23b/Atf6",46
+"mmu04142","mmu04142","Lysosome","32/677","135/9382",1.19567404136409e-09,1.78753269183932e-07,1.17679497755308e-07,"Atp6v0d1/Scarb2/Napsa/Asah1/Laptm5/Neu1/Lamp2/Acp2/Gns/Ctsd/Sumf1/Pla2g15/Atp6v0d2/Acp5/Atp6ap1/Lgmn/Dnase2a/Ap3d1/Ap1s2/Ctsa/Cd63/Nagpa/Cd164/Ap3m1/Ids/Ctsb/Sort1/Tpp1/Gga1/Ppt2/Psap/Ctsl",32
+"mmu04380","mmu04380","Osteoclast differentiation","28/677","135/9382",2.74629001763897e-07,2.73713571758017e-05,1.80195169578416e-05,"Nfkb1/Fcgr4/Tgfbr2/Sirpa/Fosl2/Jun/Lcp2/Ppp3r1/Mapk1/Acp5/Ppp3ca/Mapk3/Nfkbia/Spi1/Pirb/Ncf1/Atp2a2/Gab2/Akt2/Syk/Ifngr1/Rela/Fcgr3/Chuk/Map3k7/Tab2/Junb/Tmem64",28
+"mmu05152","mmu05152","Tuberculosis","33/677","180/9382",5.06423058364605e-07,3.78551236127542e-05,2.4921345240574e-05,"Il10ra/Atp6v0d1/Arhgef12/Nfkb1/Fcgr4/Lamp2/Camk2d/Mrc1/Malt1/Ctsd/Atp6v0d2/Ppp3r1/Mapk1/Atp6ap1/Ppp3ca/Mapk3/Crebbp/Irak1/Il10rb/Vdr/Hspa9/Cd14/Rab7/Akt2/Tlr2/Irak2/C3/Syk/Plk3/Ifngr1/Rela/Fcgr3/Rab5c",33
+"mmu04140","mmu04140","Autophagy - animal","31/677","166/9382",7.4056931095201e-07,4.42860447949302e-05,2.9155044452216e-05,"Stk11/Deptor/Rab1a/Lamp2/Atg7/Ctsd/Mapk1/Ulk2/Mapk3/Bcl2l1/Vps11/Dapk1/Becn1/Wdr45b/Gorasp2/Prkcd/Pten/Ykt6/Nras/Rab7/Ctsb/Akt2/Wdfy3/Mtmr3/Ppp2ca/Irs2/Plekhm1/Trp53inp2/Ubc/Map3k7/Ctsl",31
+"mmu04662","mmu04662","B cell receptor signaling pathway","20/677","83/9382",1.19367243936286e-06,5.15914272127774e-05,3.3964431926736e-05,"Nfkb1/Vav1/Malt1/Jun/Ppp3r1/Mapk1/Ptpn6/Gsk3b/Ppp3ca/Pik3ap1/Mapk3/Nfkbia/Inpp5d/Pirb/Nras/Akt2/Lyn/Syk/Rela/Chuk",20
+"mmu05220","mmu05220","Chronic myeloid leukemia","19/677","76/9382",1.20782605514863e-06,5.15914272127774e-05,3.3964431926736e-05,"Nfkb1/Tgfbr2/Cdk6/Mapk1/Ctbp1/Araf/Mapk3/Bcl2l1/Nfkbia/Bak1/Braf/Nras/Cbl/Shc1/Gab2/Runx1/Akt2/Rela/Chuk",19
+"mmu05140","mmu05140","Leishmaniasis","18/677","70/9382",1.47780925591629e-06,5.52331209398715e-05,3.6361885638993e-05,"Eef1a1/Nfkb1/Fcgr4/Jun/Mapk1/Ptpn6/Mapk3/Nfkbia/Irak1/Ncf1/Cybb/Tlr2/C3/Ifngr1/Rela/Fcgr3/Map3k7/Tab2",18
+"mmu05417","mmu05417","Lipid and atherosclerosis","36/677","216/9382",1.68626464801871e-06,5.6021458861955e-05,3.68808759274268e-05,"Rap1b/Hspa5/Nfkb1/Camk2d/Vav1/Stat3/Jun/Ppp3r1/Mapk1/Gsk3b/Icam1/Ppp3ca/Mapk3/Bcl2l1/Nfkbia/Atf4/Map3k5/Irak1/Mib1/Abcg1/Xbp1/Nras/Ncf1/Cybb/Cd14/Nlrp3/Map2k4/Akt2/Tlr2/Lyn/Rxrb/Rela/Atf6/Chuk/Map3k7/Tab2",36
+"mmu05135","mmu05135","Yersinia infection","26/677","135/9382",3.19488309243369e-06,9.55270044637673e-05,6.28887513984316e-05,"Arhgef12/Elmo2/Nfkb1/Pxn/Vav1/Jun/Lcp2/Mapk1/Gsk3b/Mapk3/Nfkbia/Irak1/Ptk2b/Arf6/Gnaq/Nlrp3/Git2/Map2k4/Akt2/Arpc2/Wipf1/Rela/Fcgr3/Chuk/Map3k7/Tab2",26
+"mmu04722","mmu04722","Neurotrophin signaling pathway","24/677","121/9382",4.46086252078336e-06,0.00012125435397402,7.98259608982285e-05,"Rap1b/Nfkb1/Camk2d/Jun/Mapk1/Gsk3b/Mapk3/Nfkbia/Atf4/Map3k5/Map3k3/Irak1/Prkcd/Braf/Arhgdia/Nras/Shc1/Akt2/Sort1/Irak2/Map3k1/Rela/Mapkapk2/Psen2",24
+"mmu00020","mmu00020","Citrate cycle (TCA cycle)","11/677","32/9382",8.07702934374094e-06,0.000201252647814878,0.000132491621691189,"Acly/Suclg2/Idh1/Ogdh/Sdha/Idh3g/Idh2/Pdha1/Sdhc/Aco2/Sucla2",11
+"mmu04148","mmu04148","Efferocytosis","28/677","161/9382",1.05694418379332e-05,0.000239410480589602,0.00015761225090743,"Adam9/Arnt/Atp8a1/Ptger4/Camk2d/Nr1h3/Odc1/Dusp5/Sirpa/Pbx1/Pla2g15/Mapk1/Ptpn6/Itgb5/Mapk3/Vps11/Axl/Calr/Atp2a2/Sgk1/Rab7/Adam10/Cd47/Mertk/Mapkapk2/Rab5c/Cpt1a/Atp11b",28
+"mmu05132","mmu05132","Salmonella infection","38/677","253/9382",1.12098552784429e-05,0.000239410480589602,0.00015761225090743,"Elmo2/Nfkb1/Fhod1/Nod1/Abi1/Pik3cg/Snx18/Fyco1/Jun/Rhob/Mapk1/Mapk3/Dctn1/Nfkbia/Vps11/Irak1/Bak1/Dynll2/Birc3/Arf6/Cd14/Rab7/Nlrp3/Map2k4/Arf2/Akt2/Tlr2/Arpc2/Actr1a/Plekhm1/Rela/Exoc5/Chuk/Map3k7/Tcf7l2/Rab5c/Tab2/Dync1li1",38
+"mmu00510","mmu00510","N-Glycan biosynthesis","14/677","53/9382",1.55145278741268e-05,0.000309256255624262,0.000203594155260471,"Mogs/Mgat5/Man1c1/Mgat2/Man2a2/Magt1/Rpn1/Rpn2/Stt3b/B4galt1/Man2a1/Ganab/Mgat4b/Stt3a",14
+"mmu04062","mmu04062","Chemokine signaling pathway","31/677","192/9382",1.70860008395855e-05,0.000319294640689754,0.000210202773487006,"Rap1b/Pik3r5/Gnb1/Nfkb1/Pxn/Ccl9/Vav1/Pik3cg/Stat3/Grk3/Mapk1/Arrb2/Gsk3b/Mapk3/Nfkbia/Gsk3a/Ptk2b/Grk2/Prkcd/Braf/Nras/Ncf1/Shc1/Ccr1/Gnaq/Hck/Akt2/Lyn/Rela/Chuk/Gng10",31
+"mmu05221","mmu05221","Acute myeloid leukemia","16/677","70/9382",2.82715027032765e-05,0.00049724584166351,0.000327354241827412,"Nfkb1/Stat3/Mapk1/Araf/Mapk3/Spi1/Braf/Nras/Cd14/Runx1/Akt2/Pim1/Dusp6/Rela/Chuk/Tcf7l2",16
+"mmu05235","mmu05235","PD-L1 expression and PD-1 checkpoint pathway in cancer","18/677","88/9382",4.50134493624293e-05,0.000747723408853686,0.000492252340980952,"Nfkb1/Stat3/Jun/Ppp3r1/Mapk1/Ptpn6/Ppp3ca/Mapk3/Nfkbia/Map3k3/Pten/Nras/Cd274/Akt2/Tlr2/Ifngr1/Rela/Chuk",18
+"mmu04660","mmu04660","T cell receptor signaling pathway","22/677","122/9382",5.22997099058904e-05,0.000823032276940065,0.000541830789606732,"Ppp2r1a/Nfkb1/Vav1/Malt1/Jun/Lcp2/Ppp3r1/Mapk1/Ptpn6/Gsk3b/Dlg1/Ppp3ca/Mapk3/Nfkbia/Ppp2r5a/Nras/Ppp2r5c/Akt2/Ppp2ca/Rela/Chuk/Map3k7",22
+"mmu05167","mmu05167","Kaposi sarcoma-associated herpesvirus infection","33/677","224/9382",6.24455795739568e-05,0.000906219409651378,0.000596595774000379,"Pik3r5/Gnb1/Nfkb1/Pik3cg/Cdk6/Stat3/Jun/Ppp3r1/Mapk1/Gsk3b/Icam1/Ppp3ca/Mapk3/Nfkbia/Crebbp/Becn1/Bak1/Nras/Ccr1/Zfp36/Map2k4/Hck/Akt2/Lyn/C3/Syk/Ifngr1/Rela/Mapkapk2/Ubc/Chuk/Tcf7l2/Gng10",33
+"mmu04668","mmu04668","TNF signaling pathway","21/677","115/9382",6.36475170658158e-05,0.000906219409651378,0.000596595774000379,"Nfkb1/Tnfrsf1b/Jun/Creb3l2/Tnfaip3/Mapk1/Icam1/Mapk3/Nfkbia/Atf4/Map3k5/Birc3/Itch/Map2k4/Akt2/Xiap/Rela/Chuk/Map3k7/Tab2/Junb",21
+"mmu04137","mmu04137","Mitophagy - animal","19/677","99/9382",7.00829593484662e-05,0.000952491129326882,0.000627058057328382,"Bnip3l/Opa1/Cited2/Amfr/Rhot1/Sp1/Jun/Nlrx1/Bcl2l1/Atf4/Tfeb/Becn1/Fkbp8/Nras/Rab7/Samm50/Rela/Ubc/Rab5c",19
+"mmu04071","mmu04071","Sphingolipid signaling pathway","22/677","126/9382",8.65113600011188e-05,0.00109889024424948,0.00072343768940205,"Ppp2r1a/Nfkb1/Cers2/Asah1/Gna13/Ctsd/Mapk1/Sgpp1/Mapk3/Map3k5/Gna12/Ppp2r5a/Pten/Nras/Sgms1/Gnaq/Gab2/Ppp2r5c/Akt2/Cers6/Ppp2ca/Rela",22
+"mmu05145","mmu05145","Toxoplasmosis","20/677","109/9382",8.82052369966136e-05,0.00109889024424948,0.00072343768940205,"Il10ra/Pik3r5/Nfkb1/Pik3cg/Stat3/Mapk1/Mapk3/Bcl2l1/Nfkbia/Irak1/Il10rb/Birc3/Akt2/Tlr2/Ifngr1/Xiap/Rela/Chuk/Map3k7/Tab2",20
+"mmu05142","mmu05142","Chagas disease","19/677","103/9382",0.000122206766017171,0.00146159292156537,0.000962217484008886,"Ppp2r1a/Nfkb1/Tgfbr2/Jun/Mapk1/Mapk3/Nfkbia/Irak1/Calr/Gnaq/Map2k4/Akt2/Tlr2/C3/Ppp2ca/Ifngr1/Rela/Serpine1/Chuk",19
+"mmu04066","mmu04066","HIF-1 signaling pathway","20/677","114/9382",0.000167593068448454,0.00187190913400191,0.00123234292574672,"Arnt/Nfkb1/Camk2d/Stat3/Mapk1/Mknk2/Mapk3/Il6ra/Crebbp/Pfkl/Pdha1/Egln1/Ltbr/Cybb/Trf/Insr/Akt2/Ifngr1/Rela/Serpine1",20
+"mmu00513","mmu00513","Various types of N-glycan biosynthesis","11/677","43/9382",0.000173181348311489,0.00187190913400191,0.00123234292574672,"Man1c1/Mgat2/Man2a2/Magt1/Rpn1/Rpn2/Stt3b/B4galt1/Man2a1/Mgat4b/Stt3a",11
+"mmu04936","mmu04936","Alcoholic liver disease","23/677","141/9382",0.00017529583863563,0.00187190913400191,0.00123234292574672,"Nfkb1/Lpin2/Il17ra/Acox1/Lpin1/Gsk3b/Nfkbia/Map3k5/Irak1/Adipor2/Adipor1/Tra2b/C5ar1/Cd14/Map2k4/Akt2/C3/Rela/Chuk/Map3k7/Tcf7l2/Tab2/Cpt1a",23
+"mmu05171","mmu05171","Coronavirus disease - COVID-19","34/677","249/9382",0.000221163474636404,0.00228027168676844,0.00150118220533603,"Nfkb1/Rps25/Rpl13a/Rps17/Tlr7/Stat3/Jun/Rplp1/Rps15/Mapk1/Mapk3/Il6ra/Nfkbia/Rps9/Irak1/Rps14/Rplp2/Rpl23a/Rps12/Rps21/Cybb/Rps27/C5ar1/Rpl31/Nlrp3/Tlr2/C3/Syk/Rela/Rpl5/Fcgr3/Chuk/Map3k7/Tab2",34
+"mmu05161","mmu05161","Hepatitis B","25/677","163/9382",0.000252677386939601,0.00251835128983135,0.00165791829325282,"Nfkb1/Tgfbr2/Stat3/Jun/Creb3l2/Mapk1/Atp6ap1/Araf/Mapk3/Nfkbia/Crebbp/Atf4/Irak1/Ptk2b/Braf/Nras/Map2k4/Akt2/Tlr2/Map3k1/Rela/Ddx3x/Chuk/Map3k7/Tab2",25
+"mmu04657","mmu04657","IL-17 signaling pathway","17/677","93/9382",0.000307170284179409,0.00296270693450462,0.00195045307781153,"Nfkb1/Il17ra/Jun/Tnfaip3/Mapk1/Gsk3b/Mapk3/Nfkbia/S100a8/Elavl1/Usp25/Srsf1/Mapk6/Rela/Chuk/Map3k7/Tab2",17
+"mmu04146","mmu04146","Peroxisome","16/677","87/9382",0.000426603514391146,0.00398607658759227,0.00262417293391922,"Far1/Eci2/Pex11a/Acsl1/Abcd2/Idh1/Xdh/Sod1/Acox1/Mpv17l2/Idh2/Crat/Pex16/Scp2/Pxmp4/Acaa1b",16
+"mmu04920","mmu04920","Adipocytokine signaling pathway","14/677","71/9382",0.000462032844740187,0.004186297593252,0.00275598538967831,"Stk11/Nfkb1/Tnfrsf1b/Acsl1/Stat3/Nfkbia/Adipor2/Adipor1/Akt2/Irs2/Rxrb/Rela/Chuk/Cpt1a",14
+"mmu04010","mmu04010","MAPK signaling pathway","38/677","301/9382",0.000481982968355704,0.00423861492759869,0.00279042771153302,"Rap1b/Dusp1/Map3k2/Nfkb1/Tgfbr2/Dusp5/Jun/Ppp3r1/Mapk1/Arrb2/Mknk2/Araf/Ppp3ca/Mapk3/Atf4/Map3k5/Map3k3/Irak1/Gna12/Ppm1a/Braf/Max/Nras/Map3k11/Dusp3/Cd14/Insr/Taok3/Map2k4/Akt2/Ppm1b/Map3k1/Dusp6/Rela/Mapkapk2/Chuk/Map3k7/Tab2",38
+"mmu04928","mmu04928","Parathyroid hormone synthesis, secretion and action","18/677","108/9382",0.000664557831229187,0.00567722261535791,0.00373751321623633,"Gna13/Sp1/Creb3l2/Mapk1/Arrb2/Araf/Mapk3/Mef2d/Atf4/Gna12/Vdr/Braf/Gnaq/Pde4d/Mef2a/Pde4b/Rxrb/Runx2",18
+"mmu05212","mmu05212","Pancreatic cancer","14/677","76/9382",0.000943374778550143,0.00783525163295813,0.00515821881838821,"Nfkb1/Tgfbr2/Ralgds/Cdk6/Stat3/Mapk1/Araf/Mapk3/Bcl2l1/Bak1/Braf/Akt2/Rela/Chuk",14
+"mmu05203","mmu05203","Viral carcinogenesis","30/677","229/9382",0.00101775512005124,0.00811945919453633,0.00534532254665831,"Atp6v0d1/Nfkb1/Pxn/Ccnd2/Hnrnpk/Cdk6/Stat3/Jun/Creb3l2/Hdac4/Atp6v0d2/Mapk1/Usp7/Dlg1/Mapk3/Nfkbia/Crebbp/Atf4/Actn4/Bak1/Ltbr/Nras/Gtf2b/Snd1/Lyn/C3/Syk/Rela/Mapkapk2/Ddx3x",30
+"mmu04625","mmu04625","C-type lectin receptor signaling pathway","18/677","112/9382",0.00103190451301799,0.00811945919453633,0.00534532254665831,"Arhgef12/Nfkb1/Malt1/Jun/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Nfkbia/Prkcd/Nras/Nlrp3/Akt2/Syk/Plk3/Rela/Mapkapk2/Chuk",18
+"mmu04064","mmu04064","NF-kappa B signaling pathway","17/677","105/9382",0.00129551694801868,0.00968398918643961,0.00637530708630244,"Nfkb1/Malt1/Tnfaip3/Icam1/Bcl2l1/Nfkbia/Irak1/Ltbr/Birc3/Cd14/Lyn/Syk/Xiap/Rela/Chuk/Map3k7/Tab2",17
+"mmu04659","mmu04659","Th17 cell differentiation","17/677","105/9382",0.00129551694801868,0.00968398918643961,0.00637530708630244,"Il4ra/Nfkb1/Rora/Tgfbr2/Stat3/Jun/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Il6ra/Nfkbia/Runx1/Rxrb/Ifngr1/Rela/Chuk",17
+"mmu05202","mmu05202","Transcriptional misregulation in cancer","29/677","224/9382",0.00147642469805456,0.0107670971882516,0.00708835477628249,"Nfkb1/Ccnd2/Tgfbr2/Fus/Aff1/Etv6/Sp1/Ss18/Pbx1/Id2/Bcl2l1/Bak1/Fli1/Jmjd1c/Spi1/Max/Birc3/Ncor1/Cd14/H3f3b/Runx1/Smad1/Rxrb/Runx2/Dusp6/Rela/Cdk9/Nupr1/Ddx5",29
+"mmu05163","mmu05163","Human cytomegalovirus infection","32/677","256/9382",0.0015495032915163,0.0110309877181756,0.00726208309557766,"Il10ra/Tapbp/Arhgef12/Gnb1/Nfkb1/Pxn/Ptger4/Gna13/Sp1/Cdk6/Stat3/Creb3l2/Ppp3r1/Mapk1/Gsk3b/Ppp3ca/Mapk3/Il6ra/Nfkbia/Atf4/Gna12/Il10rb/Ptk2b/Bak1/Nras/Calr/Ccr1/Gnaq/Akt2/Rela/Chuk/Gng10",32
+"mmu04210","mmu04210","Apoptosis","20/677","136/9382",0.00172482358526508,0.0119935407440525,0.00789576524956108,"Capn1/Nfkb1/Jun/Ctsd/Mapk1/Mapk3/Bcl2l1/Csf2rb/Nfkbia/Atf4/Map3k5/Bak1/Birc3/Nras/Ctsb/Akt2/Xiap/Rela/Chuk/Ctsl",20
+"mmu05215","mmu05215","Prostate cancer","16/677","99/9382",0.00181259099090744,0.0123173796882119,0.00810895969616485,"Nfkb1/Creb3l2/Mapk1/Gsk3b/Araf/Mapk3/Nfkbia/Crebbp/Atf4/Pten/Braf/Nras/Akt2/Rela/Chuk/Tcf7l2",16
+"mmu04666","mmu04666","Fc gamma R-mediated phagocytosis","15/677","93/9382",0.00253884533481784,0.0165504024911416,0.0108957059174211,"Fcgr4/Vav1/Mapk1/Mapk3/Inpp5d/Prkcd/Arf6/Ncf1/Gab2/Hck/Akt2/Lyn/Arpc2/Syk/Fcgr3",15
+"mmu05213","mmu05213","Endometrial cancer","11/677","58/9382",0.00254621576786793,0.0165504024911416,0.0108957059174211,"Ilk/Mapk1/Gsk3b/Araf/Mapk3/Bak1/Pten/Braf/Nras/Akt2/Tcf7l2",11
+"mmu04068","mmu04068","FoxO signaling pathway","19/677","131/9382",0.00261394513076993,0.0166291403000045,0.010947541757088,"Stk11/Ccnd2/Tgfbr2/Stat3/Mapk1/Usp7/Araf/Mapk3/Crebbp/Pten/Braf/Nras/Sgk1/Insr/Akt2/Irs2/Plk3/Prmt1/Chuk",19
+"mmu04720","mmu04720","Long-term potentiation","12/677","67/9382",0.00273769348745577,0.0169006436087858,0.0111262818336312,"Rap1b/Camk2d/Ppp3r1/Mapk1/Araf/Ppp3ca/Mapk3/Crebbp/Atf4/Braf/Nras/Gnaq",12
+"mmu04650","mmu04650","Natural killer cell mediated cytotoxicity","18/677","122/9382",0.00276967069174082,0.0169006436087858,0.0111262818336312,"Sh2d1b1/Fcgr4/Vav1/Lcp2/Ppp3r1/Mapk1/Ptpn6/Icam1/Araf/Ppp3ca/Mapk3/Ptk2b/Braf/Nras/Shc1/Sh3bp2/Syk/Ifngr1",18
+"mmu04145","mmu04145","Phagosome","24/677","182/9382",0.00286839852283611,0.0171530231665599,0.0112924320793758,"Atp6v0d1/Fcgr4/Lamp2/Marco/Mrc1/Atp6v0d2/Scarb1/Atp6ap1/Itgb5/Sec61a1/Sec22b/Ncf1/Cybb/Calr/Cd14/Rab7/Stx12/Tlr2/C3/Vamp3/Fcgr3/Rab5c/Ctsl/Dync1li1",24
+"mmu04620","mmu04620","Toll-like receptor signaling pathway","16/677","104/9382",0.00304041839482705,0.0178251980402606,0.0117349481905605,"Nfkb1/Tlr7/Jun/Mapk1/Mapk3/Nfkbia/Irak1/Cd14/Tollip/Map2k4/Akt2/Tlr2/Rela/Chuk/Map3k7/Tab2",16
+"mmu04730","mmu04730","Long-term depression","11/677","60/9382",0.00336074790931479,0.01932430047856,0.0127218594947746,"Ppp2r1a/Gna13/Mapk1/Araf/Mapk3/Gna12/Braf/Nras/Gnaq/Lyn/Ppp2ca",11
+"mmu04932","mmu04932","Non-alcoholic fatty liver disease","21/677","156/9382",0.00400250062507016,0.0225801450357732,0.0148652952708663,"Nfkb1/Cox4i1/Nr1h3/Jun/Gsk3b/Ndufa6/Il6ra/Sdha/Atf4/Gsk3a/Map3k5/Sdhc/Xbp1/Adipor2/Adipor1/Map3k11/Itch/Insr/Akt2/Irs2/Rela",21
+"mmu05216","mmu05216","Thyroid cancer","8/677","37/9382",0.00417756944769049,0.0228044038449008,0.015012932649169,"Ncoa4/Mapk1/Mapk3/Bak1/Braf/Nras/Rxrb/Tcf7l2",8
+"mmu00564","mmu00564","Glycerophospholipid metabolism","15/677","98/9382",0.00425011000204427,0.0228044038449008,0.015012932649169,"Cept1/Pld3/Chka/Lpin2/Cdipt/Pla2g15/Lpin1/Lypla1/Gpcpd1/Agpat3/Pcyt1a/Dgkd/Lypla2/Dgkz/Chpt1",15
+"mmu04152","mmu04152","AMPK signaling pathway","18/677","127/9382",0.0043008437725098,0.0228044038449008,0.015012932649169,"Ppp2r1a/Stk11/Creb3l2/Cab39/Pfkl/Ppp2r5a/Adipor2/Elavl1/Adipor1/Eef2/Rab11b/Insr/Ppp2r5c/Akt2/Ppp2ca/Irs2/Map3k7/Cpt1a",18
+"mmu04120","mmu04120","Ubiquitin mediated proteolysis","20/677","147/9382",0.0043473278232754,0.0228044038449008,0.015012932649169,"Ube2j1/Ubr5/Ube2j2/Pias1/Ube2q1/Cop1/Ube2g2/Klhl9/Birc3/Itch/Cbl/Ube2e1/Ube2h/Map3k1/Wwp1/Xiap/Keap1/Uba2/Ubc/Ube2z",20
+"mmu04330","mmu04330","Notch signaling pathway","11/677","63/9382",0.00496102996722162,0.0255749648310218,0.01683688936244,"Notch2/Ncor2/Ctbp1/Tle3/Crebbp/Itch/Atxn1/Lfng/Aph1a/Dtx4/Psen2",11
+"mmu00600","mmu00600","Sphingolipid metabolism","10/677","55/9382",0.00539463207981874,0.0269657272400422,0.0177524766551237,"Cers2/Asah1/Neu1/Sgpp1/Sgms1/Cerk/Ugcg/Cers6/B4galnt1/Psap",10
+"mmu05208","mmu05208","Chemical carcinogenesis - reactive oxygen species","27/677","223/9382",0.00541118272375428,0.0269657272400422,0.0177524766551237,"Arnt/Nfkb1/Cox4i1/Abl2/Jun/Sod1/Mapk1/Araf/Ndufa6/Mapk3/Nfkbia/Sdha/Map3k5/Sdhc/Prkcd/Pten/Braf/Nras/Ncf1/Ptprj/Ptpn1/Gsto1/Map2k4/Akt2/Rela/Keap1/Chuk",27
+"mmu04012","mmu04012","ErbB signaling pathway","13/677","84/9382",0.00683795083922472,0.0335171688676753,0.0220655186701471,"Camk2d/Abl2/Jun/Mapk1/Gsk3b/Araf/Mapk3/Braf/Nras/Cbl/Shc1/Map2k4/Akt2",13
+"mmu04144","mmu04144","Endocytosis","31/677","271/9382",0.0069643109218106,0.0335859510584092,0.022110800379942,"Arf3/Chmp1a/Iqsec1/Tgfbr2/Grk3/Arrb2/Snx4/Agap1/Snx1/Ap2a2/Snx5/Spg21/Grk2/Ehd1/Arf6/Itch/Cbl/Dab2/Rab11b/Rab7/Acap2/Git2/Arf2/Gbf1/Ap2m1/Epn1/Arpc2/Washc5/Wipf1/Wwp1/Rab5c",31
+"mmu04664","mmu04664","Fc epsilon RI signaling pathway","11/677","66/9382",0.00711190802040163,0.0337533412396839,0.0222209991614888,"Vav1/Lcp2/Mapk1/Mapk3/Inpp5d/Nras/Gab2/Map2k4/Akt2/Lyn/Syk",11
+"mmu05162","mmu05162","Measles","19/677","145/9382",0.00802628246548682,0.0374977883934463,0.0246860990303624,"Nfkb1/Ccnd2/Cdk6/Tlr7/Stat3/Jun/Tnfaip3/Rack1/Gsk3b/Bcl2l1/Nfkbia/Irak1/Bak1/Akt2/Tlr2/Rela/Chuk/Map3k7/Tab2",19
+"mmu05211","mmu05211","Renal cell carcinoma","11/677","68/9382",0.00890888013442558,0.0409808486183576,0.0269791187876532,"Rap1b/Arnt/Jun/Mapk1/Araf/Mapk3/Crebbp/Egln1/Braf/Nras/Akt2",11
+"mmu04935","mmu04935","Growth hormone synthesis, secretion and action","16/677","117/9382",0.00965804770667093,0.0437538827923426,0.0288047036865624,"Stat3/Creb3l2/Mapk1/Gsk3b/Mapk3/Socs2/Crebbp/Atf4/Nras/Shc1/Gnaq/Map2k4/Akt2/Irs2/Map3k1/Junb",16
+"mmu05134","mmu05134","Legionellosis","10/677","60/9382",0.0100566476771887,0.0448796664996929,0.029545846278622,"Eef1a1/Nfkb1/Rab1a/Sec22b/Nfkbia/Cd14/Arf2/Tlr2/C3/Rela",10
+"mmu05231","mmu05231","Choline metabolism in cancer","14/677","98/9382",0.0103452205653373,0.0454885433681742,0.0299466911101869,"Chka/Ralgds/Sp1/Jun/Mapk1/Lypla1/Mapk3/Gpcpd1/Pcyt1a/Dgkd/Nras/Dgkz/Akt2/Chpt1",14
+"mmu04072","mmu04072","Phospholipase D signaling pathway","19/677","149/9382",0.0106436655373112,0.046122550661682,0.0303640801750908,"Pik3r5/Pik3cg/Ralgds/Gna13/Mapk1/Mapk3/Gna12/Agpat3/Ptk2b/Dgkd/Nras/Arf6/Shc1/Gab2/Insr/Dgkz/Arf2/Akt2/Syk",19
+"mmu03320","mmu03320","PPAR signaling pathway","13/677","89/9382",0.0110460832129595,0.0468251779293879,0.0308266441569989,"Nr1h3/Acsl1/Ilk/Acox1/Lpl/Acadl/Plin2/Pltp/Scp2/Rxrb/Ubc/Acaa1b/Cpt1a",13
+"mmu00071","mmu00071","Fatty acid degradation","9/677","52/9382",0.0112185166174857,0.0468251779293879,0.0308266441569989,"Eci2/Acsl1/Hadhb/Acox1/Acadl/Echs1/Acads/Acaa1b/Cpt1a",9
+"mmu03250","mmu03250","Viral life cycle - HIV-1","10/677","61/9382",0.0112756281301536,0.0468251779293879,0.0308266441569989,"Ell2/Cpsf7/Supt5/Crebbp/Serinc3/Map1s/Cpsf6/Apobec3/Furin/Cdk9",10
+"mmu04912","mmu04912","GnRH signaling pathway","13/677","90/9382",0.0120882292491016,0.0477495353087765,0.0314351807876825,"Map3k2/Camk2d/Jun/Mapk1/Mapk3/Atf4/Map3k3/Ptk2b/Prkcd/Nras/Gnaq/Map2k4/Map3k1",13
+"mmu04919","mmu04919","Thyroid hormone signaling pathway","16/677","120/9382",0.0121933824785371,0.0477495353087765,0.0314351807876825,"Ncoa1/Notch2/Mapk1/Gsk3b/Med13l/Mapk3/Crebbp/Pfkl/Nras/Atp2a2/Ncor1/Med17/Akt2/Slc16a10/Rxrb/Atp1a1",16
+"mmu04962","mmu04962","Vasopressin-regulated water reabsorption","8/677","44/9382",0.0122910550420335,0.0477495353087765,0.0314351807876825,"Creb3l2/Dctn1/Dynll2/Arhgdia/Rab11b/Nsf/Rab5c/Dync1li1",8
+"mmu04350","mmu04350","TGF-beta signaling pathway","15/677","110/9382",0.0122967030728287,0.0477495353087765,0.0314351807876825,"Ppp2r1a/Tgfbr2/Nrros/Sp1/Bmpr2/Mapk1/Id2/Mapk3/Crebbp/Skil/Ncor1/Trf/Ski/Ppp2ca/Smad1",15
+"mmu04931","mmu04931","Insulin resistance","15/677","110/9382",0.0122967030728287,0.0477495353087765,0.0314351807876825,"Nfkb1/Nr1h3/Ptpa/Stat3/Creb3l2/Gsk3b/Nfkbia/Prkcd/Pten/Ptpn1/Insr/Akt2/Irs2/Rela/Cpt1a",15
+"mmu05166","mmu05166","Human T-cell leukemia virus 1 infection","28/677","250/9382",0.0131121008948283,0.050263053430175,0.0330899172379606,"Nfkb1/Ccnd2/Tgfbr2/Jun/Creb3l2/Ppp3r1/Mapk1/Icam1/Dlg1/Ppp3ca/Mapk3/Bcl2l1/Nfkbia/Crebbp/Atf4/Map3k3/Spi1/Ltbr/Pten/Nras/Calr/Zfp36/Map2k4/Akt2/Map3k1/Xiap/Rela/Chuk",28
+"mmu04933","mmu04933","AGE-RAGE signaling pathway in diabetic complications","14/677","101/9382",0.0133374772399799,0.0503693011618577,0.0331598638171709,"Nfkb1/Tgfbr2/Stat3/Jun/Mapk1/Icam1/Mapk3/Prkcd/Nras/Cybb/Akt2/Pim1/Rela/Serpine1",14
+"mmu05223","mmu05223","Non-small cell lung cancer","11/677","72/9382",0.0135364648492071,0.0503693011618577,0.0331598638171709,"Cdk6/Stat3/Mapk1/Araf/Mapk3/Rassf5/Bak1/Braf/Nras/Akt2/Rxrb",11
+"mmu05225","mmu05225","Hepatocellular carcinoma","21/677","174/9382",0.0136451952980283,0.0503693011618577,0.0331598638171709,"Tgfbr2/Cdk6/Mapk1/Gsk3b/Araf/Mapk3/Bcl2l1/Smarcd2/Smarcc1/Arid1b/Bak1/Pten/Braf/Nras/Gsto1/Shc1/Akt2/Csnk1a1/Keap1/Tcf7l2/Smarcc2",21
+"mmu05170","mmu05170","Human immunodeficiency virus 1 infection","27/677","240/9382",0.0138978554657161,0.0506763266371842,0.0333619893721297,"Tapbp/Gnb1/Nfkb1/Pxn/Tnfrsf1b/Jun/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Bcl2l1/Nfkbia/Ap1s2/Irak1/Ptk2b/Bak1/Nras/Calr/Gnaq/Akt2/Tlr2/Apobec3/Rela/Chuk/Map3k7/Tab2/Gng10",27
+"mmu05222","mmu05222","Small cell lung cancer","13/677","93/9382",0.0156742171632866,0.0557937018178841,0.0367309355393217,"Nfkb1/Cdk6/Bcl2l1/Nfkbia/Bak1/Pten/Max/Birc3/Akt2/Rxrb/Xiap/Rela/Chuk",13
+"mmu03060","mmu03060","Protein export","6/677","29/9382",0.0156744847916464,0.0557937018178841,0.0367309355393217,"Hspa5/Sec63/Sec61a1/Srp72/Srp68/Srp54a",6
+"mmu05160","mmu05160","Hepatitis C","20/677","166/9382",0.0161077685211049,0.0565031695618719,0.0371980028448162,"Ppp2r1a/Nfkb1/Nr1h3/Cdk6/Stat3/Mapk1/Scarb1/Gsk3b/Araf/Mapk3/Nfkbia/Pias1/Bak1/Braf/Nras/Akt2/Ppp2ca/Rela/Psme3/Chuk",20
+"mmu04917","mmu04917","Prolactin signaling pathway","11/677","74/9382",0.0164407215782035,0.0565031695618719,0.0371980028448162,"Nfkb1/Ccnd2/Stat3/Mapk1/Gsk3b/Mapk3/Socs2/Nras/Shc1/Akt2/Rela",11
+"mmu05214","mmu05214","Glioma","11/677","74/9382",0.0164407215782035,0.0565031695618719,0.0371980028448162,"Camk2d/Cdk6/Mapk1/Araf/Mapk3/Bak1/Pten/Braf/Nras/Shc1/Akt2",11
+"mmu04922","mmu04922","Glucagon signaling pathway","14/677","104/9382",0.0169590380613664,0.0576221861403243,0.0379346904004248,"Pgam1/Camk2d/Creb3l2/Ppp3r1/Ppp4r3a/Ppp3ca/Crebbp/Atf4/Pfkl/Pdha1/Gnaq/Akt2/Prmt1/Cpt1a",14
+"mmu04150","mmu04150","mTOR signaling pathway","19/677","157/9382",0.0179004257502016,0.0601373853855088,0.0395905335929947,"Stk11/Deptor/Lpin2/Cab39/Mapk1/Lpin1/Gsk3b/Rictor/Ulk2/Mapk3/Pten/Braf/Nras/Sgk1/Insr/Eif4b/Akt2/Fnip2/Chuk",19
+"mmu00640","mmu00640","Propanoate metabolism","6/677","31/9382",0.0215033347974366,0.0710969090265644,0.0468055693996393,"Suclg2/Bckdha/Acox1/Echs1/Sucla2/Acads",6
+"mmu05133","mmu05133","Pertussis","11/677","77/9382",0.021638189703737,0.0710969090265644,0.0468055693996393,"Nfkb1/Nod1/Jun/Mapk1/Mapk3/Irak1/Cd14/Nlrp3/Irf8/C3/Rela",11
+"mmu04340","mmu04340","Hedgehog signaling pathway","9/677","58/9382",0.0221400862032846,0.071955280160675,0.0473706649887211,"Ccnd2/Csnk1d/Grk3/Arrb2/Gsk3b/Grk2/Spopl/Csnk1g2/Csnk1a1",9
+"mmu05205","mmu05205","Proteoglycans in cancer","23/677","205/9382",0.0226596618844797,0.0724068520883813,0.0476679505035286,"Arhgef12/Pxn/Ppp1r12b/Camk2d/Vav1/Stat3/Mapk1/Ptpn6/Cd44/Itgb5/Araf/Ppp1r12c/Mapk3/Pdcd4/Cd63/Braf/Nras/Cbl/Eif4b/Akt2/Tlr2/Ddx5/Ctsl",23
+"mmu04216","mmu04216","Ferroptosis","7/677","40/9382",0.0227765530531464,0.0724068520883813,0.0476679505035286,"Acsl1/Atg7/Ncoa4/Cybb/Trf/Pcbp1/Pcbp2",7
+"mmu04926","mmu04926","Relaxin signaling pathway","16/677","129/9382",0.0230055215665426,0.0724068520883813,0.0476679505035286,"Gnb1/Nfkb1/Tgfbr2/Jun/Creb3l2/Mapk1/Arrb2/Mapk3/Nfkbia/Atf4/Nras/Shc1/Map2k4/Akt2/Rela/Gng10",16
+"mmu04658","mmu04658","Th1 and Th2 cell differentiation","12/677","88/9382",0.0236458814687315,0.07288782019743,0.0479845885475071,"Il4ra/Nfkb1/Notch2/Jun/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Nfkbia/Ifngr1/Rela/Chuk",12
+"mmu05210","mmu05210","Colorectal cancer","12/677","88/9382",0.0236458814687315,0.07288782019743,0.0479845885475071,"Tgfbr2/Ralgds/Jun/Mapk1/Gsk3b/Araf/Mapk3/Bak1/Braf/Nras/Akt2/Tcf7l2",12
+"mmu04218","mmu04218","Cellular senescence","21/677","184/9382",0.0241461225348602,0.0730058070276183,0.0480622633837867,"Capn1/Nfkb1/Ccnd2/Tgfbr2/Cdk6/Ppp3r1/Mapk1/Hipk3/Ppp3ca/Mapk3/Hipk2/Rassf5/Zfp36l1/Pten/Nras/Hipk1/Akt2/Rela/Mapkapk2/Serpine1/Zfp36l2",21
+"mmu05164","mmu05164","Influenza A","20/677","173/9382",0.024172491290081,0.0730058070276183,0.0480622633837867,"Nfkb1/Cdk6/Tlr7/Mapk1/Nlrx1/Icam1/Mapk3/Hnrnpul1/Nfkbia/Crebbp/Bak1/Pabpn1/Rab11b/Nlrp3/Akt2/Nxf1/Ifngr1/Rela/Dnajc3/Chuk",20
+"mmu05230","mmu05230","Central carbon metabolism in cancer","10/677","69/9382",0.0254066266841286,0.0759658137855444,0.0500109388413899,"Pgam1/Idh1/Mapk1/Mapk3/Idh2/Pfkl/Pdha1/Pten/Nras/Akt2",10
+"mmu05010","mmu05010","Alzheimer disease","38/677","383/9382",0.0272720161316186,0.080735968548059,0.0531512977239466,"Capn1/Nfkb1/Cox4i1/Slc39a7/Rtn3/Ppp3r1/Mapk1/Gsk3b/Rtn4/Ulk2/Araf/Ndufa6/Ppp3ca/Mapk3/App/Sdha/Atf4/Lpl/Map3k5/Sdhc/Becn1/Xbp1/Braf/Nras/Cybb/Atp2a2/Gnaq/Insr/Akt2/Adam10/Aph1a/Irs2/Csnk1a1/Rela/Atf6/Chuk/Slc39a1/Psen2",38
+"mmu04520","mmu04520","Adherens junction","12/677","92/9382",0.0322135543282496,0.0944299288641826,0.0621665083527623,"Rap1b/Tgfbr2/Mapk1/Ptpn6/Mapk3/Crebbp/Actn4/Ptprj/Ptpn1/Insr/Map3k7/Tcf7l2",12
+"mmu04728","mmu04728","Dopaminergic synapse","16/677","135/9382",0.0334719226714492,0.0971660667841097,0.063967803163628,"Ppp2r1a/Gnb1/Camk2d/Comt/Creb3l2/Arrb2/Gsk3b/Ppp3ca/Atf4/Gsk3a/Ppp2r5a/Gnaq/Ppp2r5c/Akt2/Ppp2ca/Gng10",16
+"mmu05224","mmu05224","Breast cancer","17/677","147/9382",0.0356263245365755,0.102350694657825,0.06738102411904,"Ncoa1/Notch2/Sp1/Cdk6/Jun/Mapk1/Gsk3b/Araf/Mapk3/Bak1/Pten/Braf/Nras/Shc1/Akt2/Csnk1a1/Tcf7l2",17
+"mmu04115","mmu04115","p53 signaling pathway","10/677","73/9382",0.0359425516356911,0.102350694657825,0.06738102411904,"Ccnd2/Mdm4/Cdk6/Bcl2l1/Cd82/Cop1/Aifm2/Pten/Perp/Serpine1",10
+"mmu03018","mmu03018","RNA degradation","11/677","84/9382",0.0382941489201033,0.107008883430943,0.0704476718943367,"Cnot6/Pan3/Tent4b/Pfkl/Cnot6l/Pabpc1/Hspa9/Btg2/Patl1/Cnot7/Cnot1",11
+"mmu03083","mmu03083","Polycomb repressive complex","11/677","84/9382",0.0382941489201033,0.107008883430943,0.0704476718943367,"Mbd6/Dcaf7/Usp7/Bcor/Asxl1/Crebbp/Phc3/Suz12/Fbrs/Max/Phc2",11
+"mmu00601","mmu00601","Glycosphingolipid biosynthesis - lacto and neolacto series","5/677","27/9382",0.0413248287585933,0.114408553692772,0.0753191323377871,"Gcnt2/St3gal4/Ggta1/B4galt1/B3gnt2",5
+"mmu04910","mmu04910","Insulin signaling pathway","16/677","139/9382",0.0421605272523502,0.115651354572961,0.0761373114069482,"Mapk1/Prkar2a/Gsk3b/Mknk2/Araf/Mapk3/Socs2/Flot2/Braf/Nras/Cbl/Ptpn1/Shc1/Insr/Akt2/Irs2",16
+"mmu04022","mmu04022","cGMP-PKG signaling pathway","19/677","173/9382",0.0433067961080681,0.117715745784658,0.0774963719828587,"Pik3r5/Pik3cg/Gna13/Creb3l2/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Mef2d/Adrb2/Atf4/Gna12/Atp2a2/Gnaq/Insr/Akt2/Mef2a/Irs2/Atp1a1",19
+"mmu05169","mmu05169","Epstein-Barr virus infection","24/677","231/9382",0.0446661435682476,0.11971199581118,0.078810572845241,"Tapbp/Nfkb1/Ccnd2/Ncor2/Cdk6/Stat3/Jun/Tnfaip3/Usp7/Cd44/Icam1/Nfkbia/Irak1/Bak1/Calr/Map2k4/Akt2/Tlr2/Lyn/Syk/Rela/Chuk/Map3k7/Tab2",24
+"mmu05022","mmu05022","Pathways of neurodegeneration - multiple diseases","44/677","471/9382",0.0448419516082013,0.11971199581118,0.078810572845241,"Hspa5/Capn1/Nfkb1/Cox4i1/Ube2j1/Tnfrsf1b/Rab1a/Fus/Camk2d/Sod1/Ppp3r1/Mapk1/Gsk3b/Ube2j2/Ulk2/Araf/Ndufa6/Ppp3ca/Mapk3/Bcl2l1/App/Dctn1/Sdha/Atf4/Map3k5/Sdhc/Becn1/Ube2g2/Bak1/Xbp1/Braf/Nras/Cybb/Atxn1/Atp2a2/Hip1/Gnaq/Actr1a/Csnk1a1/Rela/Atf6/Gpx1/Ubc/Psen2",44
+"mmu00062","mmu00062","Fatty acid elongation","5/677","29/9382",0.0540522732006956,0.143023271566442,0.0941571969122503,"Hadhb/Echs1/Elovl5/Acot1/Ppt2",5
+"mmu04370","mmu04370","VEGF signaling pathway","8/677","58/9382",0.0552534698059559,0.144858683272924,0.0953655123113426,"Pxn/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Nras/Akt2/Mapkapk2",8
+"mmu04915","mmu04915","Estrogen signaling pathway","15/677","133/9382",0.055714878181894,0.144858683272924,0.0953655123113426,"Ncoa1/Sp1/Jun/Ctsd/Creb3l2/Mapk1/Mapk3/Atf4/Fkbp4/Fkbp5/Prkcd/Nras/Shc1/Gnaq/Akt2",15
+"mmu04211","mmu04211","Longevity regulating pathway","11/677","90/9382",0.0583872995696456,0.150498298028655,0.0990782669648251,"Stk11/Nfkb1/Creb3l2/Atf4/Adipor2/Nras/Adipor1/Insr/Akt2/Irs2/Rela",11
+"mmu04621","mmu04621","NOD-like receptor signaling pathway","22/677","216/9382",0.0630439850319686,0.161112406192809,0.106065903742493,"Nfkb1/Nod1/Jun/Tnfaip3/Mapk1/Nlrx1/Mapk3/Bcl2l1/Nfkbia/Erbin/Prkcd/Birc3/Cybb/Nlrp3/Ctsb/Rbck1/Xiap/Rela/Nek7/Chuk/Map3k7/Tab2",22
+"mmu05418","mmu05418","Fluid shear stress and atherosclerosis","16/677","147/9382",0.0641554117627791,0.16256328912772,0.107021070469578,"Dusp1/Nfkb1/Jun/Bmpr2/Icam1/Map3k5/Ncf1/Gsto1/Map2k4/Akt2/Mef2a/Rela/Keap1/Chuk/Map3k7/Ctsl",16
+"mmu03015","mmu03015","mRNA surveillance pathway","12/677","103/9382",0.0667414791725912,0.167694977080712,0.110399439232858,"Ppp2r1a/Fus/Cpsf7/Ppp2r5a/Pabpc1/Pabpn1/Ppp2r5c/Etf1/Nxf1/Cpsf6/Ppp2ca/Dazap1",12
+"mmu04622","mmu04622","RIG-I-like receptor signaling pathway","9/677","71/9382",0.0681580454628278,0.169491191093261,0.111581949425946,"Nfkb1/Nlrx1/Nfkbia/Otud5/Map3k1/Rela/Ddx3x/Chuk/Map3k7",9
+"mmu04371","mmu04371","Apelin signaling pathway","15/677","137/9382",0.0685900806765372,0.169491191093261,0.111581949425946,"Pik3r5/Gnb1/Pik3cg/Gna13/Hdac4/Mapk1/Mapk3/Mef2d/Becn1/Nras/Gnaq/Akt2/Mef2a/Serpine1/Gng10",15
+"mmu05219","mmu05219","Bladder cancer","6/677","41/9382",0.0718235030258724,0.176026454137179,0.115884340516291,"Mapk1/Araf/Mapk3/Dapk1/Braf/Nras",6
+"mmu05218","mmu05218","Melanoma","9/677","72/9382",0.0731713548522344,0.177871830087952,0.117099215724158,"Cdk6/Mapk1/Araf/Mapk3/Bak1/Pten/Braf/Nras/Akt2",9
+"mmu00533","mmu00533","Glycosaminoglycan biosynthesis - keratan sulfate","3/677","14/9382",0.0749482668107444,0.18072203045494,0.118975601813321,"B3gnt7/B4galt1/B3gnt2",3
+"mmu05321","mmu05321","Inflammatory bowel disease","8/677","62/9382",0.0760845570010118,0.18199426034642,0.119813155024751,"Il4ra/Nfkb1/Rora/Stat3/Jun/Tlr2/Ifngr1/Rela",8
+"mmu04215","mmu04215","Apoptosis - multiple species","5/677","32/9382",0.076935983560347,0.182570310194792,0.120192388686591,"Bcl2l1/Becn1/Bak1/Birc3/Xiap",5
+"mmu05415","mmu05415","Diabetic cardiomyopathy","21/677","211/9382",0.0823676716210961,0.193920738698486,0.127664770767882,"Nfkb1/Cox4i1/Tgfbr2/Camk2d/Gsr/Ptpa/Sp1/Ctsd/Gsk3b/Ndufa6/Sdha/Pdha1/Sdhc/Prkcd/Pten/Ncf1/Cybb/Atp2a2/Insr/Akt2/Rela",21
+"mmu04130","mmu04130","SNARE interactions in vesicular transport","5/677","33/9382",0.0855598384134569,0.199862435043934,0.131576396244379,"Stx5a/Sec22b/Ykt6/Gosr2/Vamp3",5
+"mmu01040","mmu01040","Biosynthesis of unsaturated fatty acids","5/677","34/9382",0.0946678131645617,0.217735970278492,0.143343166492089,"Acox1/Scp2/Elovl5/Acot1/Acaa1b",5
+"mmu04710","mmu04710","Circadian rhythm","5/677","34/9382",0.0946678131645617,0.217735970278492,0.143343166492089,"Rora/Per1/Csnk1d/Bhlhe41/Nfil3",5
+"mmu04261","mmu04261","Adrenergic signaling in cardiomyocytes","16/677","156/9382",0.0969420070646611,0.221264581010181,0.145666173733159,"Pik3r5/Ppp2r1a/Camk2d/Pik3cg/Creb3l2/Mapk1/Mapk3/Adrb2/Atf4/Ppp2r5a/Atp2a2/Gnaq/Ppp2r5c/Akt2/Ppp2ca/Atp1a1",16
+"mmu04725","mmu04725","Cholinergic synapse","12/677","112/9382",0.108429169612645,0.245608497834703,0.16169262135219,"Pik3r5/Gnb1/Camk2d/Pik3cg/Creb3l2/Mapk1/Mapk3/Atf4/Nras/Gnaq/Akt2/Gng10",12
+"mmu03082","mmu03082","ATP-dependent chromatin remodeling","14/677","136/9382",0.11246639291799,0.25283798107127,0.166452041754365,"Ino80e/Gatad2b/Mta2/Ss18/Srcap/Epc2/Mbd3/Smarcd2/Smarcc1/Arid1b/Baz1a/Dpf2/Morf4l2/Smarcc2",14
+"mmu04923","mmu04923","Regulation of lipolysis in adipocytes","7/677","57/9382",0.114254259323428,0.253374534336451,0.166805273441001,"Pnpla2/Abhd5/Cidec/Adrb2/Insr/Akt2/Irs2",7
+"mmu04613","mmu04613","Neutrophil extracellular trap formation","20/677","208/9382",0.114399873362612,0.253374534336451,0.166805273441001,"Nfkb1/Clcn3/Fcgr4/Atg7/Tlr7/Hdac4/Mapk1/Mapk3/Fpr2/Ncf1/Cybb/C5ar1/H3f3b/Akt2/Tlr2/C3/Syk/Rela/Fcgr3/Map3k7",20
+"mmu04611","mmu04611","Platelet activation","13/677","125/9382",0.115968284943001,0.254959685279098,0.167848833470133,"Rap1b/Arhgef12/Pik3r5/Pik3cg/Gna13/Lcp2/Mapk1/Mapk3/Gnaq/Akt2/Lyn/Syk/Fcgr3",13
+"mmu04930","mmu04930","Type II diabetes mellitus","6/677","48/9382",0.129451525140782,0.282525591365648,0.185996428746264,"Mapk1/Mapk3/Socs2/Prkcd/Insr/Irs2",6
+"mmu04960","mmu04960","Aldosterone-regulated sodium reabsorption","5/677","38/9382",0.135675713756004,0.293964046471341,0.193526761802995,"Mapk1/Mapk3/Sgk1/Insr/Atp1a1",5
+"mmu05017","mmu05017","Spinocerebellar ataxia","14/677","141/9382",0.138707076059348,0.298369897422627,0.19642728680877,"Opa1/Rora/Sp1/Pum2/Ulk2/Map3k5/Becn1/Xbp1/Gtf2b/Atxn1/Atp2a2/Gnaq/Akt2/Pum1",14
+"mmu04151","mmu04151","PI3K-Akt signaling pathway","32/677","364/9382",0.140446227079467,0.29995301354829,0.19746950724707,"Il4ra/Pik3r5/Ppp2r1a/Gnb1/Stk11/Nfkb1/Ccnd2/Pik3cg/Cdk6/Creb3l2/Mapk1/Gsk3b/Itgb5/Pik3ap1/Mapk3/Bcl2l1/Il6ra/Atf4/Ppp2r5a/Pten/Nras/Sgk1/Insr/Eif4b/Ppp2r5c/Akt2/Tlr2/Ppp2ca/Syk/Rela/Chuk/Gng10",32
+"mmu04510","mmu04510","Focal adhesion","19/677","203/9382",0.145835731086566,0.307480081671022,0.202424838135825,"Rap1b/Pxn/Ccnd2/Ppp1r12b/Vav1/Jun/Ilk/Mapk1/Gsk3b/Itgb5/Ppp1r12c/Mapk3/Actn4/Pten/Braf/Birc3/Shc1/Akt2/Xiap",19
+"mmu00562","mmu00562","Inositol phosphate metabolism","8/677","72/9382",0.146027329756806,0.307480081671022,0.202424838135825,"Pip4k2a/Cdipt/Pik3cg/Mtm1/Synj1/Inpp5d/Pten/Mtmr3",8
+"mmu00785","mmu00785","Lipoic acid metabolism","3/677","19/9382",0.153499308992349,0.320953100620365,0.211294595374083,"Bckdha/Ogdh/Pdha1",3
+"mmu04390","mmu04390","Hippo signaling pathway","15/677","157/9382",0.161085587576117,0.334476324203187,0.220197404069692,"Ppp2r1a/Ccnd2/Tgfbr2/Csnk1d/Bmpr2/Id2/Gsk3b/Dlg1/Mob1b/Birc3/Wwtr1/Ppp2ca/Smad1/Serpine1/Tcf7l2",15
+"mmu00561","mmu00561","Glycerolipid metabolism","7/677","63/9382",0.166973541066383,0.344310957095506,0.226671885150007,"Lpin2/Pnpla2/Lpin1/Lpl/Agpat3/Dgkd/Dgkz",7
+"mmu05323","mmu05323","Rheumatoid arthritis","9/677","87/9382",0.174396865062801,0.357155223656009,0.235127712809976,"Atp6v0d1/Jun/Atp6v0d2/Acp5/Atp6ap1/Icam1/Tnfsf13/Tlr2/Ctsl",9
+"mmu04014","mmu04014","Ras signaling pathway","21/677","235/9382",0.180910450813609,0.367974318321559,0.242250299335087,"Rap1b/Gnb1/Nfkb1/Abl2/Ralgds/Rgl1/Mapk1/Mapk3/Bcl2l1/Rassf5/Ralgapa1/Nras/Arf6/Shc1/Gab2/Insr/Akt2/Rela/Chuk/Rab5c/Gng10",21
+"mmu04934","mmu04934","Cushing syndrome","15/677","162/9382",0.191332863491181,0.386544095836913,0.254475430105625,"Rap1b/Arnt/Camk2d/Sp1/Cdk6/Creb3l2/Pbx1/Mapk1/Scarb1/Gsk3b/Mapk3/Atf4/Braf/Gnaq/Tcf7l2",15
+"mmu05207","mmu05207","Chemical carcinogenesis - receptor activation","20/677","225/9382",0.194376487525071,0.389585792428823,0.256477884823763,"Arnt/Nfkb1/Notch2/Stat3/Jun/Creb3l2/Klf4/Mapk1/Arrb2/Mapk3/Adrb2/Atf4/Vdr/Nras/Gsto1/Kpnb1/Akt2/Rxrb/Xiap/Rela",20
+"mmu00410","mmu00410","beta-Alanine metabolism","4/677","32/9382",0.196747339989138,0.389585792428823,0.256477884823763,"Acox1/Aldh3b1/Echs1/Acads",4
+"mmu04136","mmu04136","Autophagy - other","4/677","32/9382",0.196747339989138,0.389585792428823,0.256477884823763,"Atg7/Ulk2/Becn1/Ppp2ca",4
+"mmu00534","mmu00534","Glycosaminoglycan biosynthesis - heparan sulfate / heparin","3/677","24/9382",0.248221696675142,0.485086845136388,0.31934955127796,"Ext1/Ext2/Hs6st1",3
+"mmu04977","mmu04977","Vitamin digestion and absorption","3/677","24/9382",0.248221696675142,0.485086845136388,0.31934955127796,"Scarb1/Tcn2/Lmbrd1",3
+"mmu04630","mmu04630","JAK-STAT signaling pathway","15/677","171/9382",0.251874927171907,0.489029891067534,0.321945395633265,"Il10ra/Il4ra/Ccnd2/Stat3/Ptpn6/Bcl2l1/Csf2rb/Il6ra/Pias1/Socs2/Crebbp/Il10rb/Akt2/Pim1/Ifngr1",15
+"mmu04070","mmu04070","Phosphatidylinositol signaling system","9/677","96/9382",0.255363286202615,0.492604016610206,0.32429836685833,"Pip4k2a/Cdipt/Mtm1/Synj1/Inpp5d/Dgkd/Pten/Dgkz/Mtmr3",9
+"mmu00480","mmu00480","Glutathione metabolism","7/677","72/9382",0.26167343384873,0.4985839972308,0.328235196205456,"Gsr/Odc1/Idh1/Idh2/Prdx6/Gsto1/Gpx1",7
+"mmu04024","mmu04024","cAMP signaling pathway","19/677","224/9382",0.26340642996801,0.4985839972308,0.328235196205456,"Rap1b/Nfkb1/Camk2d/Vav1/Jun/Creb3l2/Mapk1/Acox1/Mapk3/Nfkbia/Adrb2/Crebbp/Braf/Atp2a2/Pde4d/Akt2/Pde4b/Rela/Atp1a1",19
+"mmu05030","mmu05030","Cocaine addiction","5/677","48/9382",0.263465791178818,0.4985839972308,0.328235196205456,"Nfkb1/Jun/Creb3l2/Atf4/Rela",5
+"mmu04213","mmu04213","Longevity regulating pathway - multiple species","6/677","61/9382",0.276058905535085,0.519129639968492,0.341761107812385,"Sod1/Nras/Insr/Akt2/Eif4ebp2/Irs2",6
+"mmu04310","mmu04310","Wnt signaling pathway","15/677","175/9382",0.280902627602118,0.524936785331458,0.345584153694711,"Chd8/Ccnd2/Camk2d/Ccdc88c/Tbl1xr1/Jun/Ppp3r1/Ctbp1/Gsk3b/Tle3/Ppp3ca/Crebbp/Csnk1a1/Map3k7/Tcf7l2",15
+"mmu04918","mmu04918","Thyroid hormone synthesis","7/677","74/9382",0.284565767860215,0.528245687942819,0.34776251943428,"Hspa5/Gsr/Creb3l2/Atf4/Gnaq/Gpx1/Atp1a1",7
+"mmu05226","mmu05226","Gastric cancer","13/677","150/9382",0.286206693801795,0.528245687942819,0.34776251943428,"Tgfbr2/Mapk1/Gsk3b/Araf/Mapk3/Bak1/Braf/Nras/Shc1/Akt2/Rxrb/Csnk1a1/Tcf7l2",13
+"mmu00563","mmu00563","Glycosylphosphatidylinositol (GPI)-anchor biosynthesis","3/677","26/9382",0.288358916232427,0.528952858610403,0.348228074494439,"Pigs/Pigt/Gpaa1",3
+"mmu04979","mmu04979","Cholesterol metabolism","5/677","50/9382",0.291878969390686,0.532145194193994,0.350329700103069,"Mylip/Scarb1/Lpl/Pltp/Sort1",5
+"mmu04916","mmu04916","Melanogenesis","9/677","100/9382",0.294756401764555,0.534134328046072,0.351639216140171,"Camk2d/Creb3l2/Mapk1/Gsk3b/Mapk3/Crebbp/Nras/Gnaq/Tcf7l2",9
+"mmu04929","mmu04929","GnRH secretion","6/677","63/9382",0.301578452057514,0.543204561236124,0.357610466295213,"Mapk1/Arrb2/Mapk3/Nras/Gnaq/Akt2",6
+"mmu05165","mmu05165","Human papillomavirus infection","29/677","362/9382",0.303906463768791,0.544119956089034,0.358213102582817,"Atp6v0d1/Ppp2r1a/Nfkb1/Pxn/Ccnd2/Ptger4/Notch2/Cdk6/Creb3l2/Atp6v0d2/Mapk1/Gsk3b/Atp6ap1/Itgb5/Dlg1/Mapk3/Crebbp/Ppp2r5a/Bak1/Pten/Nras/Lfng/Ppp2r5c/Akt2/Ppp2ca/Csnk1a1/Rela/Chuk/Tcf7l2",29
+"mmu04724","mmu04724","Glutamatergic synapse","10/677","114/9382",0.307306446399347,0.546452981300003,0.359749014268969,"Gnb1/Glul/Grk3/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Grk2/Gnaq/Gng10",10
+"mmu04550","mmu04550","Signaling pathways regulating pluripotency of stem cells","12/677","140/9382",0.310062372711147,0.546452981300003,0.359749014268969,"Stat3/Zfhx3/Klf4/Bmpr2/Mapk1/Id2/Gsk3b/Mapk3/Nras/Skil/Akt2/Smad1",12
+"mmu04921","mmu04921","Oxytocin signaling pathway","13/677","153/9382",0.310692330505018,0.546452981300003,0.359749014268969,"Pik3r5/Ppp1r12b/Camk2d/Pik3cg/Jun/Ppp3r1/Mapk1/Ppp1r12c/Ppp3ca/Mapk3/Nras/Eef2/Gnaq",13
+"mmu03040","mmu03040","Spliceosome","15/677","180/9382",0.318619758536907,0.557118759079154,0.366770666952303,"Tcerg1/Hnrnpk/Fus/Srsf2/Srsf6/Snrnp70/Sf3b4/Srsf5/Tra2b/U2af2/Srsf1/Pcbp1/Sf3b3/Pqbp1/Ddx5",15
+"mmu04110","mmu04110","Cell cycle","13/677","155/9382",0.327312465069422,0.568990854975332,0.374586480832202,"Ppp2r1a/Ccnd2/Nipbl/Cdk6/Pds5a/Gsk3b/Crebbp/Ppp2r5a/Mcm3/Mau2/Ppp2r5c/Ppp2ca/Rad21",13
+"mmu03013","mmu03013","Nucleocytoplasmic transport","10/677","117/9382",0.336244708535446,0.581139698567043,0.382584487350949,"Eef1a1/Xpo6/Ipo5/Xpot/Ipo8/Xpo7/Nup210/Kpnb1/Pom121/Nxf1",10
+"mmu05014","mmu05014","Amyotrophic lateral sclerosis","29/677","369/9382",0.341883036859189,0.587488666786766,0.386764234075428,"Setx/Hspa5/Cox4i1/Tnfrsf1b/Rab1a/Ubqln1/Fus/Sod1/Ppp3r1/Ulk2/Ndufa6/Ppp3ca/Bcl2l1/Dctn1/Sdha/Atf4/Map3k5/Sdhc/Ubqln2/Becn1/Nup210/Xbp1/Pom121/Nxf1/Matr3/Actr1a/Hnrnpa2b1/Atf6/Gpx1",29
+"mmu05206","mmu05206","MicroRNAs in cancer","24/677","303/9382",0.34641836158783,0.591880514941493,0.389655540552928,"Foxp1/Nfkb1/Ccnd2/Hnrnpk/Bmf/Mdm4/Notch2/Cdk6/Stat3/Hdac4/Bmpr2/Mapk1/Cd44/Dicer1/Mapk3/Crebbp/Pdcd4/Zeb2/Bak1/Pten/Nras/Shc1/Pim1/Irs2",24
+"mmu04670","mmu04670","Leukocyte transendothelial migration","10/677","119/9382",0.35580743696432,0.60446831620643,0.397942528183779,"Rap1b/Pxn/Vav1/Icam1/Actn4/Ptk2b/Rassf5/Ncf1/Cybb/Sipa1",10
+"mmu00760","mmu00760","Nicotinate and nicotinamide metabolism","4/677","42/9382",0.359781943620438,0.607767238093282,0.400114323265072,"Bst1/Enpp1/Nt5c2/Sirt2",4
+"mmu00230","mmu00230","Purine metabolism","11/677","134/9382",0.373664591974678,0.627672544946228,0.41321867947525,"Gmps/Ak2/Gda/Xdh/Enpp1/Nt5c2/Pde4d/Cant1/Pde4b/Ak3/Impdh2",11
+"mmu00514","mmu00514","Other types of O-glycan biosynthesis","4/677","43/9382",0.376591635161373,0.629055301191343,0.414128996031618,"Colgalt1/Galnt1/B4galt1/Lfng",4
+"mmu05031","mmu05031","Amphetamine addiction","6/677","69/9382",0.380068587866948,0.631336154290097,0.415630561000698,"Camk2d/Jun/Creb3l2/Ppp3r1/Ppp3ca/Atf4",6
+"mmu00280","mmu00280","Valine, leucine and isoleucine degradation","5/677","57/9382",0.394023016385193,0.650899899995429,0.428510055621001,"Hadhb/Bckdha/Echs1/Acads/Acaa1b",5
+"mmu03010","mmu03010","Ribosome","14/677","177/9382",0.400595044148049,0.657406223847961,0.432793395034567,"Rps25/Rpl13a/Rps17/Rplp1/Rps15/Rps9/Rps14/Rplp2/Rpl23a/Rps12/Rps21/Rps27/Rpl31/Rpl5",14
+"mmu04810","mmu04810","Regulation of actin cytoskeleton","18/677","231/9382",0.402358993191227,0.657406223847961,0.432793395034567,"Pip4k2a/Arhgef12/Pxn/Ppp1r12b/Vav1/Gna13/Mapk1/Itgb5/Araf/Ppp1r12c/Mapk3/Gna12/Actn4/Braf/Nras/Ssh2/Akt2/Arpc2",18
+"mmu04927","mmu04927","Cortisol synthesis and secretion","6/677","72/9382",0.419607687912758,0.681862492858231,0.448893808007355,"Sp1/Creb3l2/Pbx1/Scarb1/Atf4/Gnaq",6
+"mmu05012","mmu05012","Parkinson disease","20/677","264/9382",0.444053618327306,0.717686658810078,0.472478103141998,"Dusp1/Hspa5/Cox4i1/Ube2j1/Camk2d/Slc39a7/Sod1/Ube2j2/Ndufa6/Bcl2l1/Sdha/Atf4/Map3k5/Sdhc/Ube2g2/Xbp1/Keap1/Atf6/Ubc/Slc39a1",20
+"mmu00030","mmu00030","Pentose phosphate pathway","3/677","34/9382",0.448738759572698,0.718045682989512,0.472714461253437,"Pfkl/Gpi1/Rpe",3
+"mmu04961","mmu04961","Endocrine and other factor-regulated calcium reabsorption","5/677","61/9382",0.452215141727697,0.718045682989512,0.472714461253437,"Ap2a2/Vdr/Gnaq/Ap2m1/Atp1a1",5
+"mmu00531","mmu00531","Glycosaminoglycan degradation","2/677","21/9382",0.453881719347885,0.718045682989512,0.472714461253437,"Gns/Ids",2
+"mmu00770","mmu00770","Pantothenate and CoA biosynthesis","2/677","21/9382",0.453881719347885,0.718045682989512,0.472714461253437,"Enpp1/Pank3",2
+"mmu04623","mmu04623","Cytosolic DNA-sensing pathway","6/677","75/9382",0.458815239983337,0.72203029871062,0.475337672448111,"Nfkb1/Dnase2a/Nfkbia/Nlrp3/Rela/Chuk",6
+"mmu04270","mmu04270","Vascular smooth muscle contraction","11/677","144/9382",0.467864517313379,0.729590849021285,0.48031504582637,"Arhgef12/Ppp1r12b/Gna13/Mapk1/Araf/Ppp1r12c/Mapk3/Gna12/Prkcd/Braf/Gnaq",11
+"mmu04924","mmu04924","Renin secretion","6/677","76/9382",0.471749631664245,0.729590849021285,0.48031504582637,"Ptger4/Ppp3r1/Ppp3ca/Adrb2/Gnaq/Ctsb",6
+"mmu05100","mmu05100","Bacterial invasion of epithelial cells","6/677","76/9382",0.471749631664245,0.729590849021285,0.48031504582637,"Elmo2/Pxn/Ilk/Cbl/Shc1/Arpc2",6
+"mmu04726","mmu04726","Serotonergic synapse","10/677","131/9382",0.47459629868172,0.729590849021285,0.48031504582637,"Dusp1/Gnb1/Mapk1/Araf/Mapk3/App/Braf/Nras/Gnaq/Gng10",10
+"mmu04612","mmu04612","Antigen processing and presentation","7/677","90/9382",0.475820118926925,0.729590849021285,0.48031504582637,"Tapbp/Hspa5/Lgmn/Calr/Ctsb/Psme3/Ctsl",7
+"mmu04015","mmu04015","Rap1 signaling pathway","16/677","214/9382",0.479223109426783,0.731059743462287,0.481282070154718,"Rap1b/Dock4/Vav1/Ralgds/Lcp2/Mapk1/Rapgef6/Mapk3/Rassf5/Braf/Nras/Gnaq/Insr/Akt2/Sipa1/Sipa1l3",16
+"mmu05032","mmu05032","Morphine addiction","7/677","91/9382",0.48762911503426,0.740107133986009,0.487238282187585,"Gnb1/Grk3/Arrb2/Grk2/Pde4d/Pde4b/Gng10",7
+"mmu00900","mmu00900","Terpenoid backbone biosynthesis","2/677","23/9382",0.502161796538414,0.758315036186797,0.499225177845207,"Pcyox1/Nus1",2
+"mmu04614","mmu04614","Renin-angiotensin system","3/677","37/9382",0.505471359663987,0.75947706803785,0.499990183851709,"Lnpep/Ctsa/Prcp",3
+"mmu05146","mmu05146","Amoebiasis","8/677","107/9382",0.511922115685641,0.762770165516487,0.502158144522383,"Nfkb1/Actn4/Cd14/Gnaq/Rab7/Tlr2/Rela/Rab5c",8
+"mmu04114","mmu04114","Oocyte meiosis","9/677","121/9382",0.512765228323792,0.762770165516487,0.502158144522383,"Ppp2r1a/Camk2d/Ppp3r1/Mapk1/Ppp3ca/Mapk3/Ppp2r5a/Ppp2r5c/Ppp2ca",9
+"mmu04061","mmu04061","Viral protein interaction with cytokine and cytokine receptor","7/677","95/9382",0.534000771978677,0.789805026622596,0.519956134407413,"Il10ra/Tnfrsf1b/Ccl9/Il6ra/Il10rb/Ltbr/Ccr1",7
+"mmu00010","mmu00010","Glycolysis / Gluconeogenesis","5/677","67/9382",0.536222141820692,0.789805026622596,0.519956134407413,"Pgam1/Aldh3b1/Pfkl/Pdha1/Gpi1",5
+"mmu00592","mmu00592","alpha-Linolenic acid metabolism","2/677","25/9382",0.547598867880082,0.802608144588944,0.528384872515869,"Acox1/Acaa1b",2
+"mmu04978","mmu04978","Mineral absorption","4/677","54/9382",0.553313694347354,0.807028266389555,0.531294792518383,"Atp7a/Vdr/Trf/Atp1a1",4
+"mmu04530","mmu04530","Tight junction","12/677","168/9382",0.558274600705474,0.810311192286101,0.533456056882594,"Ppp2r1a/Stk11/Jun/Rap2c/Rapgef6/Dlg1/Map3k5/Actn4/Runx1/Arpc2/Ppp2ca/Map3k1",12
+"mmu04713","mmu04713","Circadian entrainment","7/677","98/9382",0.567655785201255,0.819947245290702,0.539799805912203,"Gnb1/Camk2d/Per1/Mapk1/Mapk3/Gnaq/Gng10",7
+"mmu00650","mmu00650","Butanoate metabolism","2/677","27/9382",0.590048717251955,0.840116983134926,0.553078246246193,"Echs1/Acads",2
+"mmu04392","mmu04392","Hippo signaling pathway - multiple species","2/677","27/9382",0.590048717251955,0.840116983134926,0.553078246246193,"Mob1b/Wwtr1",2
+"mmu04966","mmu04966","Collecting duct acid secretion","2/677","27/9382",0.590048717251955,0.840116983134926,0.553078246246193,"Atp6v0d1/Atp6v0d2",2
+"mmu04540","mmu04540","Gap junction","6/677","86/9382",0.594631318847264,0.842629214859393,0.554732135816604,"Map3k2/Csnk1d/Mapk1/Mapk3/Nras/Gnaq",6
+"mmu04217","mmu04217","Necroptosis","12/677","175/9382",0.616225802335169,0.869110919331206,0.572165963439308,"Capn1/Chmp1a/Camk2d/Stat3/Glul/Tnfaip3/Birc3/Cybb/Nlrp3/Rbck1/Ifngr1/Xiap",12
+"mmu04914","mmu04914","Progesterone-mediated oocyte maturation","6/677","92/9382",0.660574738172862,0.921758892056943,0.606825956045233,"Mapk1/Stk10/Araf/Mapk3/Braf/Akt2",6
+"mmu04721","mmu04721","Synaptic vesicle cycle","5/677","77/9382",0.661119696703005,0.921758892056943,0.606825956045233,"Atp6v0d1/Atp6v0d2/Ap2a2/Nsf/Ap2m1",5
+"mmu04360","mmu04360","Axon guidance","12/677","181/9382",0.662803216696464,0.921758892056943,0.606825956045233,"Arhgef12/Camk2d/Ilk/Ppp3r1/Bmpr2/Mapk1/Gsk3b/Ppp3ca/Mapk3/Plxnc1/Nras/Ssh2",12
+"mmu00604","mmu00604","Glycosphingolipid biosynthesis - ganglio series","1/677","15/9382",0.675120886019044,0.928746765912206,0.611426316583639,"B4galnt1",1
+"mmu00730","mmu00730","Thiamine metabolism","1/677","15/9382",0.675120886019044,0.928746765912206,0.611426316583639,"Ak2",1
+"mmu00052","mmu00052","Galactose metabolism","2/677","32/9382",0.68295213046677,0.928746765912206,0.611426316583639,"Pfkl/B4galt1",2
+"mmu00630","mmu00630","Glyoxylate and dicarboxylate metabolism","2/677","32/9382",0.68295213046677,0.928746765912206,0.611426316583639,"Glul/Aco2",2
+"mmu00565","mmu00565","Ether lipid metabolism","3/677","48/9382",0.683358824417008,0.928746765912206,0.611426316583639,"Cept1/Pld3/Chpt1",3
+"mmu00310","mmu00310","Lysine degradation","4/677","64/9382",0.687962621588425,0.929200491750799,0.611725020092939,"Kmt5b/Colgalt1/Plod1/Echs1",4
+"mmu05016","mmu05016","Huntington disease","20/677","302/9382",0.689908057420325,0.929200491750799,0.611725020092939,"Cox4i1/Sp1/Creb3l2/Sod1/Polr2a/Ulk2/Ndufa6/Dctn1/Sdha/Ap2a2/Crebbp/Map3k5/Sdhc/Becn1/Tgm2/Hip1/Gnaq/Ap2m1/Actr1a/Gpx1",20
+"mmu00500","mmu00500","Starch and sucrose metabolism","2/677","34/9382",0.714982107184407,0.958653139229318,0.631114722886402,"Enpp1/Gpi1",2
+"mmu00910","mmu00910","Nitrogen metabolism","1/677","17/9382",0.720387429477048,0.958694450040245,0.63114191923086,"Glul",1
+"mmu00520","mmu00520","Amino sugar and nucleotide sugar metabolism","3/677","51/9382",0.722672777947713,0.958694450040245,0.63114191923086,"Cmas/Gmppa/Gpi1",3
+"mmu04972","mmu04972","Pancreatic secretion","7/677","114/9382",0.72463192544848,0.958694450040245,0.63114191923086,"Bst1/Rap1b/Slc4a2/Rab3d/Atp2a2/Gnaq/Atp1a1",7
+"mmu02010","mmu02010","ABC transporters","3/677","52/9382",0.734901195273542,0.966985253651257,0.636600043769706,"Abcd2/Abca3/Abcg1",3
+"mmu00120","mmu00120","Primary bile acid biosynthesis","1/677","18/9382",0.740600746107485,0.966985253651257,0.636600043769706,"Scp2",1
+"mmu00511","mmu00511","Other glycan degradation","1/677","18/9382",0.740600746107485,0.966985253651257,0.636600043769706,"Neu1",1
+"mmu00051","mmu00051","Fructose and mannose metabolism","2/677","36/9382",0.74425113110401,0.967526470435213,0.636956345613043,"Pfkl/Gmppa",2
+"mmu04911","mmu04911","Insulin secretion","5/677","86/9382",0.75306495501124,0.968209484825662,0.637405997755321,"Camk2d/Creb3l2/Atf4/Gnaq/Atp1a1",5
+"mmu04970","mmu04970","Salivary secretion","5/677","86/9382",0.75306495501124,0.968209484825662,0.637405997755321,"Bst1/Slc4a2/Adrb2/Gnaq/Atp1a1",5
+"mmu04925","mmu04925","Aldosterone synthesis and secretion","6/677","102/9382",0.754491003225349,0.968209484825662,0.637405997755321,"Camk2d/Creb3l2/Scarb1/Atf4/Gnaq/Atp1a1",6
+"mmu00061","mmu00061","Fatty acid biosynthesis","1/677","19/9382",0.759354835693691,0.970286734497494,0.638773523503015,"Acsl1",1
+"mmu00220","mmu00220","Arginine biosynthesis","1/677","20/9382",0.776754897237573,0.986460983210395,0.64942159429799,"Glul",1
+"mmu00240","mmu00240","Pyrimidine metabolism","3/677","56/9382",0.779586652052639,0.986460983210395,0.64942159429799,"Enpp1/Nt5c2/Cant1",3
+"mmu05143","mmu05143","African trypanosomiasis","2/677","39/9382",0.783303323001695,0.986460983210395,0.64942159429799,"Icam1/Gnaq",2
+"mmu04714","mmu04714","Thermogenesis","14/677","231/9382",0.789445398100225,0.986460983210395,0.64942159429799,"Cox4i1/Pnpla2/Acsl1/Creb3l2/Ndufa6/Smarcd2/Sdha/Map3k5/Smarcc1/Sdhc/Arid1b/Nras/Cpt1a/Smarcc2",14
+"mmu00360","mmu00360","Phenylalanine metabolism","1/677","21/9382",0.792898556132058,0.986460983210395,0.64942159429799,"Aldh3b1",1
+"mmu00532","mmu00532","Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate","1/677","21/9382",0.792898556132058,0.986460983210395,0.64942159429799,"Dse",1
+"mmu00350","mmu00350","Tyrosine metabolism","2/677","40/9382",0.795107347671255,0.986460983210395,0.64942159429799,"Comt/Aldh3b1",2
+"mmu04971","mmu04971","Gastric acid secretion","4/677","75/9382",0.799814894141293,0.988201046893581,0.650567138775215,"Camk2d/Slc4a2/Gnaq/Atp1a1",4
+"mmu04964","mmu04964","Proximal tubule bicarbonate reclamation","1/677","22/9382",0.807876408658347,0.994053688019942,0.654420136101845,"Atp1a1",1
+"mmu05034","mmu05034","Alcoholism","12/677","205/9382",0.813925716527633,0.994209622520088,0.654522793209845,"Gnb1/Creb3l2/Hdac4/Mapk1/Araf/Mapk3/Atf4/Braf/Nras/Shc1/H3f3b/Gng10",12
+"mmu05020","mmu05020","Prion disease","16/677","267/9382",0.815589972959255,0.994209622520088,0.654522793209845,"Hspa5/Cox4i1/Creb3l2/Sod1/Ppp3r1/Mapk1/Gsk3b/Ndufa6/Ppp3ca/Mapk3/Sdha/Atf4/Sdhc/Prkcd/Ncf1/Cybb",16
+"mmu04640","mmu04640","Hematopoietic cell lineage","5/677","94/9382",0.817978485417865,0.994209622520088,0.654522793209845,"Il4ra/Cd44/Il6ra/Cd14/Cd33",5
+"mmu00515","mmu00515","Mannose type O-glycan biosynthesis","1/677","23/9382",0.821772527391071,0.994777269999718,0.654896495299938,"B4galt1",1
+"mmu04672","mmu04672","Intestinal immune network for IgA production","2/677","43/9382",0.827170651243618,0.997274293233232,0.656540372591496,"Ltbr/Tnfsf13",2
+"mmu04913","mmu04913","Ovarian steroidogenesis","3/677","63/9382",0.842758259706939,0.999999833525602,0.658334690615341,"Scarb1/Insr/Acot1",3
+"mmu05217","mmu05217","Basal cell carcinoma","3/677","63/9382",0.842758259706939,0.999999833525602,0.658334690615341,"Gsk3b/Bak1/Tcf7l2",3
+"mmu00340","mmu00340","Histidine metabolism","1/677","26/9382",0.857722969011399,0.999999833525602,0.658334690615341,"Aldh3b1",1
+"mmu00790","mmu00790","Folate biosynthesis","1/677","26/9382",0.857722969011399,0.999999833525602,0.658334690615341,"Qdpr",1
+"mmu00190","mmu00190","Oxidative phosphorylation","7/677","135/9382",0.864194824080857,0.999999833525602,0.658334690615341,"Atp6v0d1/Cox4i1/Atp6v0d2/Atp6ap1/Ndufa6/Sdha/Sdhc",7
+"mmu05412","mmu05412","Arrhythmogenic right ventricular cardiomyopathy","4/677","84/9382",0.865112367715016,0.999999833525602,0.658334690615341,"Itgb5/Dag1/Atp2a2/Tcf7l2",4
+"mmu04744","mmu04744","Phototransduction","1/677","27/9382",0.868018132540608,0.999999833525602,0.658334690615341,"Gnb1",1
+"mmu04973","mmu04973","Carbohydrate digestion and absorption","2/677","48/9382",0.870687661486943,0.999999833525602,0.658334690615341,"Akt2/Atp1a1",2
+"mmu03008","mmu03008","Ribosome biogenesis in eukaryotes","6/677","121/9382",0.877982161474409,0.999999833525602,0.658334690615341,"Gtpbp4/Wdr43/Rexo1/Fbl/Nxf1/Rrp7a",6
+"mmu04512","mmu04512","ECM-receptor interaction","4/677","89/9382",0.892814721408557,0.999999833525602,0.658334690615341,"Cd44/Itgb5/Dag1/Cd47",4
+"mmu04727","mmu04727","GABAergic synapse","4/677","89/9382",0.892814721408557,0.999999833525602,0.658334690615341,"Gnb1/Glul/Nsf/Gng10",4
+"mmu00983","mmu00983","Drug metabolism - other enzymes","4/677","90/9382",0.897715912028731,0.999999833525602,0.658334690615341,"Gmps/Xdh/Gsto1/Impdh2",4
+"mmu00380","mmu00380","Tryptophan metabolism","2/677","52/9382",0.897987339847278,0.999999833525602,0.658334690615341,"Kynu/Echs1",2
+"mmu05150","mmu05150","Staphylococcus aureus infection","6/677","128/9382",0.907918200305094,0.999999833525602,0.658334690615341,"Fcgr4/Icam1/Fpr2/C5ar1/C3/Fcgr3",6
+"mmu04060","mmu04060","Cytokine-cytokine receptor interaction","16/677","294/9382",0.909151926571803,0.999999833525602,0.658334690615341,"Il10ra/Il4ra/Tnfrsf1b/Ccl9/Tgfbr2/Il17ra/Bmpr2/Csf2rb/Il6ra/Il10rb/Il16/Ltbr/Tnfsf13/Ccr1/Ifngr1/Relt",16
+"mmu00512","mmu00512","Mucin type O-glycan biosynthesis","1/677","32/9382",0.909352191300308,0.999999833525602,0.658334690615341,"Galnt1",1
+"mmu03020","mmu03020","RNA polymerase","1/677","32/9382",0.909352191300308,0.999999833525602,0.658334690615341,"Polr2a",1
+"mmu00330","mmu00330","Arginine and proline metabolism","2/677","54/9382",0.909529578384418,0.999999833525602,0.658334690615341,"Odc1/Oat",2
+"mmu04610","mmu04610","Complement and coagulation cascades","4/677","94/9382",0.915400814573594,0.999999833525602,0.658334690615341,"F10/C5ar1/C3/Serpine1",4
+"mmu05416","mmu05416","Viral myocarditis","4/677","95/9382",0.919372823194793,0.999999833525602,0.658334690615341,"Eif4g3/Abl2/Icam1/Dag1",4
+"mmu05144","mmu05144","Malaria","2/677","57/9382",0.924571301528931,0.999999833525602,0.658334690615341,"Icam1/Tlr2",2
+"mmu03030","mmu03030","DNA replication","1/677","35/9382",0.927653148188039,0.999999833525602,0.658334690615341,"Mcm3",1
+"mmu00040","mmu00040","Pentose and glucuronate interconversions","1/677","36/9382",0.932893205819011,0.999999833525602,0.658334690615341,"Rpe",1
+"mmu00250","mmu00250","Alanine, aspartate and glutamate metabolism","1/677","39/9382",0.946446817805979,0.999999833525602,0.658334690615341,"Glul",1
+"mmu00260","mmu00260","Glycine, serine and threonine metabolism","1/677","40/9382",0.950327317040203,0.999999833525602,0.658334690615341,"Pgam1",1
+"mmu04260","mmu04260","Cardiac muscle contraction","3/677","87/9382",0.955713494231751,0.999999833525602,0.658334690615341,"Cox4i1/Atp2a2/Atp1a1",3
+"mmu04975","mmu04975","Fat digestion and absorption","1/677","43/9382",0.960363725094601,0.999999833525602,0.658334690615341,"Scarb1",1
+"mmu04723","mmu04723","Retrograde endocannabinoid signaling","6/677","148/9382",0.961176393781666,0.999999833525602,0.658334690615341,"Gnb1/Mapk1/Ndufa6/Mapk3/Gnaq/Gng10",6
+"mmu00620","mmu00620","Pyruvate metabolism","1/677","44/9382",0.963237026102306,0.999999833525602,0.658334690615341,"Pdha1",1
+"mmu03022","mmu03022","Basal transcription factors","1/677","44/9382",0.963237026102306,0.999999833525602,0.658334690615341,"Gtf2b",1
+"mmu05168","mmu05168","Herpes simplex virus 1 infection","24/677","459/9382",0.96716773587412,0.999999833525602,0.658334690615341,"Tapbp/Nfkb1/Srsf2/Cfp/Srsf6/Bcl2l1/Nfkbia/Irak1/Bak1/Birc3/Srsf5/Calr/Zfp869/Akt2/Srsf1/Tlr2/Nxf1/C3/Syk/Ifngr1/Rela/Chuk/Map3k7/Tab2",24
+"mmu00982","mmu00982","Drug metabolism - cytochrome P450","2/677","71/9382",0.968453535140394,0.999999833525602,0.658334690615341,"Aldh3b1/Gsto1",2
+"mmu03050","mmu03050","Proteasome","1/677","47/9382",0.97066796228752,0.999999833525602,0.658334690615341,"Psme3",1
+"mmu00980","mmu00980","Metabolism of xenobiotics by cytochrome P450","2/677","74/9382",0.973938499841628,0.999999833525602,0.658334690615341,"Aldh3b1/Gsto1",2
+"mmu05410","mmu05410","Hypertrophic cardiomyopathy","3/677","98/9382",0.976252179696227,0.999999833525602,0.658334690615341,"Itgb5/Dag1/Atp2a2",3
+"mmu03460","mmu03460","Fanconi anemia pathway","1/677","51/9382",0.978296316934538,0.999999833525602,0.658334690615341,"Usp1",1
+"mmu04976","mmu04976","Bile secretion","3/677","100/9382",0.978844135199769,0.999999833525602,0.658334690615341,"Slc4a2/Scarb1/Atp1a1",3
+"mmu05414","mmu05414","Dilated cardiomyopathy","3/677","101/9382",0.980036837533651,0.999999833525602,0.658334690615341,"Itgb5/Dag1/Atp2a2",3
+"mmu00270","mmu00270","Cysteine and methionine metabolism","1/677","55/9382",0.983942926601451,0.999999833525602,0.658334690615341,"Mat2a",1
+"mmu04750","mmu04750","Inflammatory mediator regulation of TRP channels","4/677","127/9382",0.984514470397672,0.999999833525602,0.658334690615341,"Ptger4/Camk2d/Prkcd/Gnaq",4
+"mmu05322","mmu05322","Systemic lupus erythematosus","5/677","149/9382",0.985546117537763,0.999999833525602,0.658334690615341,"Fcgr4/Actn4/H3f3b/C3/Fcgr3",5
+"mmu03420","mmu03420","Nucleotide excision repair","1/677","57/9382",0.98618944889546,0.999999833525602,0.658334690615341,"Polr2a",1
+"mmu04974","mmu04974","Protein digestion and absorption","3/677","108/9382",0.986757789756168,0.999999833525602,0.658334690615341,"Prcp/Slc16a10/Atp1a1",3
+"mmu04814","mmu04814","Motor proteins","7/677","196/9382",0.989828793305075,0.999999833525602,0.658334690615341,"Kif13a/Dctn1/Myo7a/Dynll2/Myo9b/Actr1a/Dync1li1",7
+"mmu00140","mmu00140","Steroid hormone biosynthesis","2/677","94/9382",0.992914293779457,0.999999833525602,0.658334690615341,"Hsd17b11/Comt",2
+"mmu00970","mmu00970","Aminoacyl-tRNA biosynthesis","1/677","66/9382",0.992993820868804,0.999999833525602,0.658334690615341,"Lars2",1
+"mmu05204","mmu05204","Chemical carcinogenesis - DNA adducts","1/677","84/9382",0.998200576222175,0.999999833525602,0.658334690615341,"Gsto1",1
+"mmu04020","mmu04020","Calcium signaling pathway","8/677","253/9382",0.998327426478013,0.999999833525602,0.658334690615341,"Camk2d/Ppp3r1/Ppp3ca/Adrb2/Tfeb/Ptk2b/Atp2a2/Gnaq",8
+"mmu00830","mmu00830","Retinol metabolism","1/677","97/9382",0.999326973090678,0.999999833525602,0.658334690615341,"Dhrs3",1
+"mmu04514","mmu04514","Cell adhesion molecules","4/677","183/9382",0.999396958262429,0.999999833525602,0.658334690615341,"Vsir/Icam1/Sdc3/Cd274",4
+"mmu04080","mmu04080","Neuroactive ligand-receptor interaction","7/677","391/9382",0.999999833525602,0.999999833525602,0.658334690615341,"Ptger4/Fpr2/Adrb2/P2ry14/C5ar1/P2ry13/C3",7

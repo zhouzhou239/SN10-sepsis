@@ -1,0 +1,151 @@
+"group"	"Description"	"pvalue"	"ratio"
+"C1"	"macroautophagy"	1.73953079385564e-15	4.82250502344273
+"C1"	"actin filament organization"	2.30928052379262e-14	5.8271935699933
+"C1"	"immune response-activating signaling pathway"	2.61163144980284e-14	5.89417280643001
+"C1"	"vesicle organization"	4.0094779935318e-14	4.95646349631614
+"C1"	"viral process"	6.53739597719768e-14	5.49229738780978
+"C1"	"regulation of innate immune response"	7.41465748727545e-14	5.42531815137307
+"C1"	"immune response-regulating signaling pathway"	9.84808898394199e-14	6.02813127930342
+"C1"	"innate immune response-activating signaling pathway"	1.31872711685795e-13	3.88479571332887
+"C1"	"wound healing"	1.62933057430543e-13	5.35833891493637
+"C1"	"positive regulation of defense response"	1.7199322482852e-13	5.8271935699933
+"C1"	"protein localization to plasma membrane"	3.65578774709857e-13	4.15271265907569
+"C1"	"positive regulation of innate immune response"	3.79866666936786e-13	4.62156731413262
+"C1"	"activation of innate immune response"	4.10302462606991e-13	4.01875418620228
+"C1"	"pattern recognition receptor signaling pathway"	7.13959501892361e-13	3.61687876758205
+"C1"	"regulation of protein-containing complex assembly"	2.13743297043503e-12	5.15740120562626
+"C1"	"protein-containing complex disassembly"	3.46258054869593e-12	3.61687876758205
+"C1"	"positive regulation of response to biotic stimulus"	4.73560927687999e-12	4.68854655056932
+"C1"	"biological process involved in symbiotic interaction"	4.76105647029015e-12	4.2866711319491
+"C1"	"Golgi vesicle transport"	7.0180740232698e-12	4.01875418620228
+"C1"	"extrinsic apoptotic signaling pathway"	9.15486655754901e-12	3.41594105827194
+"C1"	"protein localization to cell periphery"	1.33133227164389e-11	4.48760884125921
+"C1"	"regulation of actin filament-based process"	1.71500944081427e-11	4.68854655056932
+"C1"	"leukocyte migration"	1.88670144226238e-11	4.82250502344273
+"C1"	"movement in host"	4.32603410030064e-11	2.947086403215
+"C1"	"cellular component disassembly"	5.1458360708607e-11	5.55927662424648
+"C1"	"regulation of supramolecular fiber organization"	5.85074510072042e-11	4.68854655056932
+"C1"	"biological process involved in interaction with host"	5.91841454377641e-11	3.14802411252512
+"C1"	"small GTPase mediated signal transduction"	6.73310883388487e-11	5.49229738780978
+"C1"	"proteasome-mediated ubiquitin-dependent protein catabolic process"	7.57276612227023e-11	5.22438044206296
+"C1"	"epithelial cell development"	9.88734051954448e-11	3.14802411252512
+"C1"	"viral life cycle"	1.04766842159481e-10	4.08573342263898
+"C1"	"response to tumor necrosis factor"	1.06295485820921e-10	3.54989953114535
+"C1"	"cellular response to external stimulus"	1.19247576154497e-10	4.2866711319491
+"C1"	"endosomal transport"	1.347070573853e-10	3.48292029470864
+"C1"	"cellular response to tumor necrosis factor"	1.35159116079828e-10	3.34896182183523
+"C1"	"canonical NF-kappaB signal transduction"	1.49952343349731e-10	3.88479571332887
+"C1"	"response to reactive oxygen species"	2.51183674898239e-10	3.01406563965171
+"C1"	"regulation of canonical NF-kappaB signal transduction"	2.57177871611009e-10	3.54989953114535
+"C1"	"regulation of actin filament organization"	2.67933680949064e-10	3.61687876758205
+"C1"	"response to molecule of bacterial origin"	2.70601728391766e-10	4.4206296048225
+"C1"	"regulation of cellular component size"	3.04549436705653e-10	4.4206296048225
+"C1"	"regulation of protein catabolic process"	3.96487892685716e-10	4.3536503683858
+"C1"	"response to lipopolysaccharide"	4.15808932689696e-10	4.21969189551239
+"C1"	"regulation of pattern recognition receptor signaling pathway"	4.39872478354563e-10	2.41125251172137
+"C1"	"Ras protein signal transduction"	4.78440604362608e-10	4.15271265907569
+"C1"	"negative regulation of phosphate metabolic process"	6.11409739825118e-10	4.4206296048225
+"C1"	"negative regulation of phosphorus metabolic process"	6.85346979163256e-10	4.4206296048225
+"C1"	"regulation of protein polymerization"	7.1681752238494e-10	2.947086403215
+"C1"	"endosome organization"	7.37825380785823e-10	1.87541862022773
+"C1"	"intracellular receptor signaling pathway"	7.55883788647283e-10	4.21969189551239
+"C2"	"response to virus"	1.5445175866824e-33	18.3333333333333
+"C2"	"defense response to virus"	6.57004942022628e-32	16
+"C2"	"defense response to symbiont"	7.56695279485936e-32	16
+"C2"	"regulation of viral genome replication"	2.61970509655176e-22	7.66666666666667
+"C2"	"viral genome replication"	2.52615172555474e-21	8.66666666666667
+"C2"	"viral process"	3.26679829467139e-21	14
+"C2"	"negative regulation of viral genome replication"	6.33558464411791e-21	6.33333333333333
+"C2"	"response to type II interferon"	2.6418804783666e-20	8.66666666666667
+"C2"	"regulation of viral life cycle"	2.6418804783666e-20	8.66666666666667
+"C2"	"regulation of viral process"	1.39433813664696e-19	9
+"C2"	"regulation of innate immune response"	7.32108751168553e-19	13
+"C2"	"negative regulation of viral process"	1.10822327611649e-18	7
+"C2"	"viral life cycle"	1.43548421444875e-17	11
+"C2"	"cellular response to type II interferon"	2.8617436897537e-16	7
+"C2"	"interferon-mediated signaling pathway"	3.89183027735611e-16	6.66666666666667
+"C2"	"positive regulation of cytokine production"	1.06382687926221e-15	12.6666666666667
+"C2"	"response to type I interferon"	2.77545999619425e-15	6
+"C2"	"cellular response to type I interferon"	1.33449208024478e-14	5.66666666666667
+"C2"	"positive regulation of innate immune response"	3.61339573600516e-14	10
+"C2"	"positive regulation of response to biotic stimulus"	3.96072839418555e-14	10.3333333333333
+"C2"	"regulation of type I interferon production"	8.29327434541114e-14	6.33333333333333
+"C2"	"type I interferon production"	8.29327434541114e-14	6.33333333333333
+"C2"	"type I interferon-mediated signaling pathway"	1.81487572755772e-13	5.33333333333333
+"C2"	"interferon-beta production"	3.40793793838755e-13	4.66666666666667
+"C2"	"regulation of interferon-beta production"	3.40793793838755e-13	4.66666666666667
+"C2"	"activation of innate immune response"	3.56072010915177e-13	8.66666666666667
+"C2"	"positive regulation of defense response"	1.60055398749745e-12	11
+"C2"	"immune response-regulating signaling pathway"	2.33750416078645e-11	10.6666666666667
+"C2"	"immune response-activating signaling pathway"	2.68782517940758e-11	10.3333333333333
+"C2"	"response to interferon-beta"	8.31335192422764e-11	3.33333333333333
+"C2"	"positive regulation of type I interferon production"	9.79683180344902e-11	4.33333333333333
+"C2"	"innate immune response-activating signaling pathway"	1.37769986297708e-10	7.33333333333333
+"C2"	"canonical NF-kappaB signal transduction"	5.42852234655679e-10	7.66666666666667
+"C2"	"regulation of response to cytokine stimulus"	8.33779674896017e-10	6
+"C2"	"pattern recognition receptor signaling pathway"	1.33018426392176e-09	6.66666666666667
+"C2"	"regulation of type I interferon-mediated signaling pathway"	1.36692277934777e-09	3.33333333333333
+"C2"	"negative regulation of innate immune response"	2.0223843629574e-09	4.33333333333333
+"C2"	"response to tumor necrosis factor"	6.63339967241308e-09	6.66666666666667
+"C2"	"positive regulation of interferon-beta production"	1.02150149045097e-08	3
+"C2"	"negative regulation of defense response"	1.03349000679733e-08	7.33333333333333
+"C2"	"regulation of cytokine-mediated signaling pathway"	1.51223692467584e-08	5.33333333333333
+"C2"	"positive regulation of canonical NF-kappaB signal transduction"	1.66907085503839e-08	5.66666666666667
+"C2"	"negative regulation of response to biotic stimulus"	1.7481115082086e-08	5
+"C2"	"negative regulation of type I interferon-mediated signaling pathway"	3.32739802731028e-08	2.33333333333333
+"C2"	"regulation of canonical NF-kappaB signal transduction"	5.25732443953852e-08	6.33333333333333
+"C2"	"positive regulation of pattern recognition receptor signaling pathway"	6.30287790031192e-08	3.33333333333333
+"C2"	"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile"	8.91440306225613e-08	7
+"C2"	"mRNA splicing, via spliceosome"	8.91440306225613e-08	7
+"C2"	"cytosolic pattern recognition receptor signaling pathway"	8.95449635077428e-08	4.66666666666667
+"C2"	"RNA splicing, via transesterification reactions"	1.09119052145989e-07	7
+"C3"	"cytoplasmic translation"	3.17893935125099e-85	10.2454642475987
+"C3"	"aerobic respiration"	1.3454324283503e-60	9.28495197438634
+"C3"	"oxidative phosphorylation"	6.78794492812266e-58	8.0042689434365
+"C3"	"cellular respiration"	7.11257771357764e-57	9.81856990394877
+"C3"	"energy derivation by oxidation of organic compounds"	1.43019724396647e-47	10.3521878335112
+"C3"	"ATP synthesis coupled electron transport"	2.1317959261718e-47	6.08324439701174
+"C3"	"mitochondrial ATP synthesis coupled electron transport"	2.1317959261718e-47	6.08324439701174
+"C3"	"aerobic electron transport chain"	2.72025782327741e-47	5.86979722518677
+"C3"	"proton motive force-driven ATP synthesis"	2.9768920688169e-45	5.22945570971185
+"C3"	"respiratory electron transport chain"	6.43179547885493e-45	6.4034151547492
+"C3"	"proton motive force-driven mitochondrial ATP synthesis"	1.70207706761595e-44	4.90928495197439
+"C3"	"ATP biosynthetic process"	6.75358197972485e-42	5.65635005336179
+"C3"	"purine ribonucleoside triphosphate biosynthetic process"	3.73440325303458e-40	5.76307363927428
+"C3"	"purine nucleoside triphosphate biosynthetic process"	6.76776552339503e-40	5.76307363927428
+"C3"	"electron transport chain"	1.49341943344607e-39	6.93703308431163
+"C3"	"ribonucleoside triphosphate biosynthetic process"	1.18141415428729e-38	5.76307363927428
+"C3"	"nucleoside triphosphate biosynthetic process"	8.06975531973272e-37	5.76307363927428
+"C3"	"ATP metabolic process"	7.05870302840942e-36	5.86979722518677
+"C3"	"purine ribonucleoside triphosphate metabolic process"	1.20755915750844e-33	6.08324439701174
+"C3"	"purine nucleoside triphosphate metabolic process"	1.16822102896142e-32	6.08324439701174
+"C3"	"ribonucleoside triphosphate metabolic process"	1.68651160820491e-32	6.08324439701174
+"C3"	"nucleoside triphosphate metabolic process"	4.40849719728406e-31	6.18996798292423
+"C3"	"purine ribonucleotide biosynthetic process"	3.24669064634612e-28	6.29669156883671
+"C3"	"mitochondrial electron transport, NADH to ubiquinone"	6.96459510994615e-28	3.30843116328709
+"C3"	"ribose phosphate biosynthetic process"	1.36751165485567e-26	6.4034151547492
+"C3"	"ribonucleotide biosynthetic process"	1.68939788292081e-26	6.29669156883671
+"C3"	"NADH dehydrogenase complex assembly"	3.05902971175169e-26	3.41515474919957
+"C3"	"mitochondrial respiratory chain complex I assembly"	3.05902971175169e-26	3.41515474919957
+"C3"	"purine nucleotide biosynthetic process"	2.79279311493783e-24	6.4034151547492
+"C3"	"purine-containing compound biosynthetic process"	3.13693692396056e-24	6.51013874066169
+"C3"	"mitochondrial respiratory chain complex assembly"	6.12805825955819e-24	4.05549626467449
+"C3"	"ribosome biogenesis"	2.31586572377774e-22	6.93703308431163
+"C3"	"nucleotide biosynthetic process"	7.842217614346e-22	6.51013874066169
+"C3"	"nucleoside phosphate biosynthetic process"	1.13084049081896e-21	6.51013874066169
+"C3"	"purine nucleotide metabolic process"	1.71666238471072e-20	8.11099252934899
+"C3"	"purine ribonucleotide metabolic process"	1.4767098685688e-19	6.93703308431163
+"C3"	"purine-containing compound metabolic process"	1.98761544237156e-19	8.21771611526147
+"C3"	"ribose phosphate metabolic process"	1.85442487922042e-18	7.04375667022412
+"C3"	"ribonucleotide metabolic process"	2.56904280942132e-18	6.93703308431163
+"C3"	"protein-RNA complex assembly"	6.27339957025483e-18	5.22945570971185
+"C3"	"proton transmembrane transport"	8.7748242978926e-18	4.26894343649947
+"C3"	"protein-RNA complex organization"	2.67604615524018e-17	5.22945570971185
+"C3"	"ribosomal large subunit biogenesis"	1.26672188034602e-15	2.77481323372465
+"C3"	"ribosome assembly"	1.42181489342912e-15	2.56136606189968
+"C3"	"ribosomal small subunit biogenesis"	1.66645022437999e-15	3.2017075773746
+"C3"	"translational initiation"	3.43824954057361e-14	3.30843116328709
+"C3"	"antigen processing and presentation of exogenous antigen"	7.70250183518559e-12	1.92102454642476
+"C3"	"formation of cytoplasmic translation initiation complex"	1.48476800326647e-11	1.17395944503735
+"C3"	"antigen processing and presentation of exogenous peptide antigen"	2.45911807710123e-11	1.70757737459979
+"C3"	"mitochondrial electron transport, cytochrome c to oxygen"	3.06670470587913e-11	1.38740661686233

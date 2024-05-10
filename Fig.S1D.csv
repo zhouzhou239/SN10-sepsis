@@ -1,0 +1,6 @@
+"","celltype",".y.","p","p.adj","p.format","p.signif","method"
+"1","Macrophage","Percentage",0.00937476845943488,0.046,"0.0094","**","Kruskal-Wallis"
+"2","Neutrophils","Percentage",0.00912313659987989,0.046,"0.0091","**","Kruskal-Wallis"
+"3","Monocyte","Percentage",0.112351197690464,0.22,"0.1124","ns","Kruskal-Wallis"
+"4","Epithelial_cells","Percentage",0.0141379694559115,0.046,"0.0141","*","Kruskal-Wallis"
+"5","T_cells","Percentage",0.772829992684444,0.77,"0.7728","ns","Kruskal-Wallis"
